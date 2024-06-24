@@ -45,7 +45,7 @@ jobs:
         instance_name: 'minecraft-server2'
         zone: 'asia-southeast1-b'
         ssh_private_key: '${{ secrets.SSH_PRIVATE_KEY }}'
-        command: 'echo Hello world'
+        script: './script/tag.sh'
 
     # Example of using the output
     - name: test
