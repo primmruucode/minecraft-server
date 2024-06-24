@@ -806,6 +806,7 @@
     "criteria": {
       "minecraft:pillager": "2024-06-23 23:03:22 +0000",
       "minecraft:skeleton": "2024-06-23 15:59:49 +0000",
+      "minecraft:phantom": "2024-06-24 18:28:30 +0000",
       "minecraft:spider": "2024-06-24 06:19:00 +0000",
       "minecraft:zombie": "2024-06-21 20:14:01 +0000",
       "minecraft:creeper": "2024-06-23 16:01:40 +0000"
@@ -2267,6 +2268,42 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-06-24 06:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-06-24 18:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-06-24 18:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-06-24 18:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-06-24 18:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-06-24 18:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-06-24 18:55:14 +0000"
     },
     "done": true
   },
