@@ -39,4 +39,4 @@ jobs:
           ssh-keyscan 34.143.237.103 >> ~/.ssh/known_hosts
 
     - name: Execute deployment script via SSH
-      run: ssh -i ~/.ssh/id_ed25519 mycroftsewer@34.143.237.103 'bash -s' < ./script/tag.sh
+      run: ssh -i ~/.ssh/id_ed25519 mycroftsewer@34.143.237.103 'bash' < ./script/tag.sh
