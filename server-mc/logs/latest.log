@@ -321,3 +321,42 @@
 [19:30:57] [Server thread/INFO]: [rimmairuu: Saved the game]
 [19:30:58] [Server thread/INFO]: rimmairuu lost connection: Disconnected
 [19:30:58] [Server thread/INFO]: rimmairuu left the game
+[19:33:17] [Server thread/INFO]: [Not Secure] <saintyosl> นอน
+[19:33:22] [Server thread/INFO]: JamesKinKung lost connection: Disconnected
+[19:33:22] [Server thread/INFO]: JamesKinKung left the game
+[19:33:31] [Server thread/INFO]: JamesKinKung[/31.205.219.118:54101] logged in with entity id 64606 at (1229.5961580983305, 27.0, -2602.528887281637)
+[19:33:31] [Server thread/INFO]: JamesKinKung joined the game
+[19:34:49] [Server thread/INFO]: goodjob[/31.205.87.190:58384] logged in with entity id 65738 at (1003.1784692740481, 63.0, -1546.1336967669033)
+[19:34:49] [Server thread/INFO]: goodjob joined the game
+[19:35:04] [Server thread/INFO]: JamesKinKung has made the advancement [Acquire Hardware]
+[19:35:08] [Server thread/INFO]: JamesKinKung has made the advancement [Isn't It Iron Pick]
+[19:35:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:36:18] [Server thread/INFO]: JamesKinKung has made the advancement [Suit Up]
+[19:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:38:04] [Server thread/INFO]: rimmairuu[/124.120.89.47:52842] logged in with entity id 68739 at (848.1444477791626, 109.0, -1687.462784149784)
+[19:38:04] [Server thread/INFO]: rimmairuu joined the game
+[19:38:25] [Server thread/INFO]: [rimmairuu: Gamerule mobGriefing is now set to: false]
+[19:38:43] [Server thread/INFO]: [rimmairuu: Gamerule mobGriefing is now set to: true]
+[19:39:24] [Server thread/INFO]: [rimmairuu: Gamerule mobGriefing is now set to: false]
+[19:39:25] [Server thread/INFO]: JamesKinKung has made the advancement [Diamonds!]
+[19:39:53] [Server thread/INFO]: [rimmairuu: Gave 1 [Lantern] to JamesKinKung]
+[19:40:14] [Server thread/INFO]: rimmairuu lost connection: Disconnected
+[19:40:14] [Server thread/INFO]: rimmairuu left the game
+[19:40:40] [Server thread/INFO]: Villager cmk['Villager'/57308, l='ServerLevel[world]', x=803.36, y=77.00, z=-1905.70] died, message: 'Villager hit the ground too hard'
+[19:41:50] [Server thread/INFO]: JamesKinKung has made the advancement [Take Aim]
+[19:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:44:14] [Server thread/INFO]: goodjob lost connection: Disconnected
+[19:44:14] [Server thread/INFO]: goodjob left the game
+[19:46:03] [Server thread/INFO]: JamesKinKung has made the advancement [Minecraft: Trial(s) Edition]
+[19:47:41] [Server thread/INFO]: Villager cmk['Nitwit'/55767, l='ServerLevel[world]', x=782.56, y=94.00, z=-1821.46] died, message: 'Nitwit was slain by Zombie'
+[19:48:42] [Server thread/INFO]: JamesKinKung was slain by Cave Spider
+[19:49:09] [Server thread/INFO]: Villager cmk['Leatherworker'/55766, l='ServerLevel[world]', x=781.55, y=94.00, z=-1823.93] died, message: 'Leatherworker was slain by Zombie'
+[19:49:38] [Server thread/INFO]: JamesKinKung lost connection: Disconnected
+[19:49:38] [Server thread/INFO]: JamesKinKung left the game
+[19:55:21] [Server thread/INFO]: saintyosl lost connection: Disconnected
+[19:55:21] [Server thread/INFO]: saintyosl left the game
