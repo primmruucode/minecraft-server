@@ -1803,12 +1803,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-06-21 21:20:29 +0000",
+      "minecraft:zombified_piglin": "2024-06-25 18:36:14 +0000",
+      "minecraft:witch": "2024-06-23 16:14:45 +0000",
+      "minecraft:ghast": "2024-06-25 18:01:01 +0000",
+      "minecraft:hoglin": "2024-06-25 18:42:22 +0000",
       "minecraft:piglin": "2024-06-22 20:46:19 +0000",
       "minecraft:breeze": "2024-06-23 14:54:26 +0000",
       "minecraft:stray": "2024-06-23 14:59:02 +0000",
       "minecraft:enderman": "2024-06-24 16:30:57 +0000",
       "minecraft:silverfish": "2024-06-24 15:43:36 +0000",
-      "minecraft:witch": "2024-06-23 16:14:45 +0000",
+      "minecraft:magma_cube": "2024-06-25 18:16:15 +0000",
       "minecraft:spider": "2024-06-22 13:59:44 +0000",
       "minecraft:piglin_brute": "2024-06-22 20:44:46 +0000",
       "minecraft:zombie": "2024-06-21 21:19:20 +0000",
@@ -3487,6 +3491,60 @@
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2024-06-24 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-06-25 18:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-06-25 18:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-06-25 18:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-06-25 18:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-06-25 18:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-06-25 18:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-06-25 18:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-06-25 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-06-25 18:25:25 +0000"
     },
     "done": true
   },
