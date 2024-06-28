@@ -53,3 +53,28 @@
 [16:51:24] [Server thread/INFO]: goodjob drowned
 [16:54:44] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
 [16:57:09] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[17:22:03] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[17:27:28] [Server thread/INFO]: HoM lost connection: Disconnected
+[17:27:28] [Server thread/INFO]: HoM left the game
+[17:27:53] [Server thread/INFO]: HoM[/184.22.35.121:4399] logged in with entity id 547266 at (942.2697609912458, 102.0, -1736.5388297530494)
+[17:27:53] [Server thread/INFO]: HoM joined the game
+[17:28:50] [Server thread/WARN]: HoM moved wrongly!
+[17:32:11] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[17:34:14] [Server thread/INFO]: mu_________[/184.22.100.91:58433] logged in with entity id 549635 at (1060.6590248764023, 64.0, -1597.8524014007787)
+[17:34:14] [Server thread/INFO]: mu_________ joined the game
+[17:36:18] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[17:44:53] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[17:45:21] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[17:45:40] [Server thread/INFO]: mu_________ has completed the challenge [Cover Me in Debris]
+[17:47:09] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[17:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[18:06:11] [Server thread/INFO]: mu_________ fell from a high place
+[18:09:11] [Server thread/INFO]: [HoM: Set the world spawn point to 1006, 66, -1626 [0.0]]
+[18:13:26] [Server thread/INFO]: goodjob lost connection: Disconnected
+[18:13:26] [Server thread/INFO]: goodjob left the game
+[18:21:00] [Server thread/INFO]: goodjob[/31.205.87.190:54291] logged in with entity id 565057 at (848.8871139259651, 109.0, -1687.4178401535783)
+[18:21:00] [Server thread/INFO]: goodjob joined the game
+[18:22:27] [Server thread/INFO]: goodjob lost connection: Disconnected
+[18:22:27] [Server thread/INFO]: goodjob left the game
+[18:23:44] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
