@@ -16,7 +16,9 @@
       "minecraft:snowy_plains": "2024-06-21 18:55:54 +0000",
       "minecraft:snowy_taiga": "2024-06-21 19:00:43 +0000",
       "minecraft:dripstone_caves": "2024-06-22 18:01:41 +0000",
+      "minecraft:old_growth_birch_forest": "2024-06-26 16:21:11 +0000",
       "minecraft:frozen_river": "2024-06-21 19:15:28 +0000",
+      "minecraft:deep_dark": "2024-06-26 16:25:55 +0000",
       "minecraft:jungle": "2024-06-21 19:44:03 +0000",
       "minecraft:cherry_grove": "2024-06-21 19:57:36 +0000",
       "minecraft:meadow": "2024-06-21 20:27:27 +0000",
@@ -305,7 +307,8 @@
       "cooked_cod": "2024-06-21 19:05:46 +0000",
       "cooked_beef": "2024-06-23 00:48:35 +0000",
       "beef": "2024-06-21 19:29:55 +0000",
-      "porkchop": "2024-06-21 19:32:04 +0000"
+      "porkchop": "2024-06-21 19:32:04 +0000",
+      "carrot": "2024-06-26 15:30:56 +0000"
     },
     "done": false
   },
@@ -973,11 +976,14 @@
     "criteria": {
       "minecraft:pillager": "2024-06-23 23:03:24 +0000",
       "minecraft:skeleton": "2024-06-21 21:19:47 +0000",
+      "minecraft:phantom": "2024-06-27 21:51:02 +0000",
       "minecraft:breeze": "2024-06-23 15:26:49 +0000",
       "minecraft:stray": "2024-06-23 15:32:16 +0000",
       "minecraft:spider": "2024-06-22 18:15:22 +0000",
       "minecraft:zombie": "2024-06-21 21:28:28 +0000",
+      "minecraft:creeper": "2024-06-27 03:42:14 +0000",
       "minecraft:drowned": "2024-06-24 16:51:11 +0000",
+      "minecraft:ravager": "2024-06-26 15:33:51 +0000",
       "minecraft:slime": "2024-06-22 18:13:21 +0000"
     },
     "done": false
@@ -3141,6 +3147,156 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-06-24 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-26 15:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-06-26 15:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-06-26 15:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-26 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-26 16:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-26 16:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-26 16:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-26 16:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-26 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-06-26 17:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-06-26 17:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-06-26 17:23:31 +0000"
     },
     "done": true
   },
