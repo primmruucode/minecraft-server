@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to your repository
-cd /home/goodjobdmn/minecraft-server
+cd ~/minecraft-server
 
 # Ensure the repository is up-to-date
 # git pull origin main
