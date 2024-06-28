@@ -7,8 +7,9 @@ cd /home/goodjobdmn/minecraft-server
 # git pull origin main
 
 # Create a new tag with the current date and time
-TAG_NAME=$(date +"backup-%Y%m%d")
-git tag $TAG_NAME
+git add .
+CM_NAME=$(date +"backup-%Y%m%d-%H%M%S")
+git commit -m $CM_NAME
 
 # Push the tag to the remote repository
-git push origin $TAG_NAME
+git push
