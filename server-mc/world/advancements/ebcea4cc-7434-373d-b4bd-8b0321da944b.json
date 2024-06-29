@@ -111,6 +111,7 @@
       "minecraft:breeze": "2024-06-29 11:17:20 +0000",
       "minecraft:zombified_piglin": "2024-06-29 08:12:24 +0000",
       "minecraft:stray": "2024-06-22 15:53:40 +0000",
+      "minecraft:spider": "2024-06-29 12:14:49 +0000",
       "minecraft:zombie": "2024-06-22 15:53:20 +0000"
     },
     "done": false
@@ -125,6 +126,7 @@
     "criteria": {
       "cooked_porkchop": "2024-06-22 16:55:48 +0000",
       "apple": "2024-06-22 15:55:01 +0000",
+      "chicken": "2024-06-29 12:01:33 +0000",
       "bread": "2024-06-22 16:44:56 +0000",
       "cooked_rabbit": "2024-06-22 16:49:29 +0000",
       "cooked_chicken": "2024-06-25 17:11:20 +0000",
@@ -1689,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-06-29 12:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-29 11:10:58 +0000"
@@ -1773,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-06-29 12:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-06-29 11:02:32 +0000"
@@ -1845,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-06-29 12:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-29 11:10:58 +0000"
@@ -1869,9 +1889,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-06-29 12:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-06-29 11:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
     },
     "done": true
   },
@@ -1923,6 +1955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-06-29 12:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-06-29 11:07:16 +0000"
@@ -1950,6 +1988,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-06-29 11:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
     },
     "done": true
   },
@@ -2013,6 +2057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-06-29 11:11:43 +0000"
@@ -2067,6 +2117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-29 11:10:58 +0000"
@@ -2100,6 +2156,12 @@
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2024-06-29 11:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
     },
     "done": true
   },
@@ -2187,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-06-29 12:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-06-29 11:15:23 +0000"
@@ -2244,6 +2312,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-06-29 11:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-06-29 12:05:39 +0000"
     },
     "done": true
   },

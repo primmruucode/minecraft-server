@@ -46,3 +46,57 @@
 [11:50:43] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.336972503721654
 [11:50:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.43747989329654047
 [11:50:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.2623785255586881
+[12:05:31] [Netty Epoll Server IO #12/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at yw.a(SourceFile:47) ~[server-1.21.jar:?]
+	at yw.encode(SourceFile:14) ~[server-1.21.jar:?]
+	at we.a(SourceFile:26) ~[server-1.21.jar:?]
+	at we.encode(SourceFile:12) ~[server-1.21.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at vt$2.write(SourceFile:530) ~[server-1.21.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at vt.c(SourceFile:350) ~[server-1.21.jar:?]
+	at vt.b(SourceFile:343) ~[server-1.21.jar:?]
+	at vt.a(SourceFile:325) ~[server-1.21.jar:?]
+	at vt.a(SourceFile:319) ~[server-1.21.jar:?]
+	at vt.exceptionCaught(SourceFile:170) ~[server-1.21.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:13:36] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.349864389825143
+[12:13:36] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.29641693090252375
+[12:13:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.28882360592069745
+[12:13:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.25002362601549066
+[12:13:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.30038829698014524
+[12:13:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.2846833841629177
+[12:13:45] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.26051960366476123
+[12:13:47] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.3925004735724542
+[12:15:54] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.46138514131985175
+[12:15:54] [Server thread/WARN]: Horse (vehicle of mu_________) moved wrongly! 0.9422343514476209
+[12:20:23] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[12:20:23] [Server thread/INFO]: mu_________ left the game
+[12:35:54] [Server thread/INFO]: HoM[/184.22.35.121:23103] logged in with entity id 678468 at (911.272803108944, 94.0, -1598.3536412578108)
+[12:35:54] [Server thread/INFO]: HoM joined the game
+[12:36:36] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
