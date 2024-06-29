@@ -100,3 +100,6 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [12:35:54] [Server thread/INFO]: HoM[/184.22.35.121:23103] logged in with entity id 678468 at (911.272803108944, 94.0, -1598.3536412578108)
 [12:35:54] [Server thread/INFO]: HoM joined the game
 [12:36:36] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[13:53:06] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[13:53:55] [Server thread/INFO]: HoM lost connection: Disconnected
+[13:53:55] [Server thread/INFO]: HoM left the game
