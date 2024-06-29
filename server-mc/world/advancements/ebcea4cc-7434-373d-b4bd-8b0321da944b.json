@@ -119,8 +119,10 @@
       "minecraft:stray": "2024-06-22 15:53:40 +0000",
       "minecraft:enderman": "2024-06-29 18:46:52 +0000",
       "minecraft:silverfish": "2024-06-29 16:44:49 +0000",
+      "minecraft:endermite": "2024-06-29 19:04:21 +0000",
       "minecraft:spider": "2024-06-29 12:14:49 +0000",
-      "minecraft:zombie": "2024-06-22 15:53:20 +0000"
+      "minecraft:zombie": "2024-06-22 15:53:20 +0000",
+      "minecraft:shulker": "2024-06-29 19:19:22 +0000"
     },
     "done": false
   },
@@ -133,15 +135,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-06-22 16:55:48 +0000",
-      "apple": "2024-06-22 15:55:01 +0000",
+      "mutton": "2024-06-29 19:29:05 +0000",
       "chicken": "2024-06-29 12:01:33 +0000",
       "bread": "2024-06-22 16:44:56 +0000",
-      "cooked_rabbit": "2024-06-22 16:49:29 +0000",
-      "cooked_chicken": "2024-06-25 17:11:20 +0000",
       "cooked_mutton": "2024-06-29 16:30:55 +0000",
       "glow_berries": "2024-06-29 18:39:21 +0000",
       "cooked_beef": "2024-06-22 16:08:45 +0000",
+      "chorus_fruit": "2024-06-29 19:27:05 +0000",
       "beef": "2024-06-22 20:44:27 +0000",
+      "apple": "2024-06-22 15:55:01 +0000",
+      "cooked_rabbit": "2024-06-22 16:49:29 +0000",
+      "cooked_chicken": "2024-06-25 17:11:20 +0000",
+      "cod": "2024-06-29 19:17:18 +0000",
       "cooked_salmon": "2024-06-22 16:39:49 +0000",
       "carrot": "2024-06-29 11:19:11 +0000"
     },
@@ -2379,6 +2384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-06-29 19:19:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-06-29 18:23:22 +0000"
@@ -2388,6 +2405,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-06-29 18:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-06-29 19:27:23 +0000"
     },
     "done": true
   },
@@ -2408,6 +2431,12 @@
       "has_granite": "2024-06-29 16:35:17 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-06-29 19:46:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
@@ -2454,6 +2483,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-06-29 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-06-29 19:13:46 +0000"
     },
     "done": true
   },
@@ -2511,6 +2546,24 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-06-29 19:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-06-29 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-06-29 18:00:23 +0000"
@@ -2520,6 +2573,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-06-29 16:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
     },
     "done": true
   },
@@ -2601,6 +2660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-29 16:35:17 +0000"
@@ -2649,9 +2714,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-06-29 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-06-29 18:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-06-29 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:07 +0000"
     },
     "done": true
   },

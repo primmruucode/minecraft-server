@@ -798,27 +798,28 @@
       "minecraft:pillager": "2024-06-21 20:14:20 +0000",
       "minecraft:blaze": "2024-06-23 18:40:01 +0000",
       "minecraft:skeleton": "2024-06-21 19:31:26 +0000",
-      "minecraft:witch": "2024-06-22 14:48:25 +0000",
-      "minecraft:wither_skeleton": "2024-06-23 18:39:14 +0000",
       "minecraft:ghast": "2024-06-23 18:15:17 +0000",
       "minecraft:hoglin": "2024-06-23 18:21:35 +0000",
-      "minecraft:cave_spider": "2024-06-22 05:44:36 +0000",
-      "minecraft:piglin": "2024-06-22 20:34:17 +0000",
       "minecraft:breeze": "2024-06-23 15:32:30 +0000",
       "minecraft:vindicator": "2024-06-26 15:32:50 +0000",
-      "minecraft:enderman": "2024-06-22 05:24:51 +0000",
-      "minecraft:stray": "2024-06-22 15:53:50 +0000",
-      "minecraft:silverfish": "2024-06-24 15:34:19 +0000",
       "minecraft:magma_cube": "2024-06-23 18:36:23 +0000",
       "minecraft:spider": "2024-06-21 21:27:37 +0000",
       "minecraft:piglin_brute": "2024-06-22 20:29:15 +0000",
+      "minecraft:creeper": "2024-06-21 21:28:58 +0000",
+      "minecraft:slime": "2024-06-23 15:30:21 +0000",
+      "minecraft:evoker": "2024-06-26 17:02:41 +0000",
+      "minecraft:witch": "2024-06-22 14:48:25 +0000",
+      "minecraft:wither_skeleton": "2024-06-23 18:39:14 +0000",
+      "minecraft:shulker": "2024-06-29 19:18:13 +0000",
+      "minecraft:cave_spider": "2024-06-22 05:44:36 +0000",
+      "minecraft:piglin": "2024-06-22 20:34:17 +0000",
+      "minecraft:enderman": "2024-06-22 05:24:51 +0000",
+      "minecraft:stray": "2024-06-22 15:53:50 +0000",
+      "minecraft:silverfish": "2024-06-24 15:34:19 +0000",
       "minecraft:vex": "2024-06-26 17:02:54 +0000",
       "minecraft:zombie": "2024-06-21 19:31:47 +0000",
-      "minecraft:creeper": "2024-06-21 21:28:58 +0000",
       "minecraft:drowned": "2024-06-23 13:01:11 +0000",
-      "minecraft:zombie_villager": "2024-06-22 06:03:24 +0000",
-      "minecraft:slime": "2024-06-23 15:30:21 +0000",
-      "minecraft:evoker": "2024-06-26 17:02:41 +0000"
+      "minecraft:zombie_villager": "2024-06-22 06:03:24 +0000"
     },
     "done": false
   },
@@ -4470,15 +4471,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-06-29 17:56:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-06-29 19:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-06-29 19:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-06-29 18:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:18:03 +0000"
     },
     "done": true
   },
@@ -4500,6 +4543,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-06-29 19:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2024-06-29 18:52:31 +0000"
@@ -4518,6 +4567,30 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-06-29 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-06-29 19:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-06-29 18:41:15 +0000"
@@ -4527,6 +4600,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-06-29 17:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:18:03 +0000"
     },
     "done": true
   },
@@ -4542,6 +4621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-06-29 17:39:31 +0000"
@@ -4551,6 +4636,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-06-29 18:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
     },
     "done": true
   },
@@ -4578,6 +4669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-06-29 19:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-06-29 17:33:49 +0000"
@@ -4590,9 +4687,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-06-29 18:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-29 19:23:00 +0000"
     },
     "done": true
   },

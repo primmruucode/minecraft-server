@@ -984,6 +984,8 @@
       "minecraft:pillager": "2024-06-23 23:03:24 +0000",
       "minecraft:skeleton": "2024-06-21 21:19:47 +0000",
       "minecraft:phantom": "2024-06-27 21:51:02 +0000",
+      "minecraft:ravager": "2024-06-26 15:33:51 +0000",
+      "minecraft:shulker": "2024-06-29 19:12:03 +0000",
       "minecraft:breeze": "2024-06-23 15:26:49 +0000",
       "minecraft:stray": "2024-06-23 15:32:16 +0000",
       "minecraft:enderman": "2024-06-28 15:40:42 +0000",
@@ -991,7 +993,6 @@
       "minecraft:zombie": "2024-06-21 21:28:28 +0000",
       "minecraft:creeper": "2024-06-27 03:42:14 +0000",
       "minecraft:drowned": "2024-06-24 16:51:11 +0000",
-      "minecraft:ravager": "2024-06-26 15:33:51 +0000",
       "minecraft:slime": "2024-06-22 18:13:21 +0000"
     },
     "done": false
@@ -3388,9 +3389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-06-29 18:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:24:52 +0000"
     },
     "done": true
   },
@@ -3424,9 +3437,33 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-06-29 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-06-29 18:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-06-29 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-29 19:24:52 +0000"
     },
     "done": true
   },
@@ -3466,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-06-29 19:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2024-06-29 18:52:30 +0000"
@@ -3496,6 +3539,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-06-29 19:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-29 18:17:14 +0000"
@@ -3517,6 +3566,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-06-29 18:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:24:52 +0000"
     },
     "done": true
   },
@@ -3547,6 +3602,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-29 18:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-29 19:24:52 +0000"
     },
     "done": true
   },
@@ -3607,6 +3668,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-29 18:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-06-29 19:12:04 +0000"
     },
     "done": true
   },
