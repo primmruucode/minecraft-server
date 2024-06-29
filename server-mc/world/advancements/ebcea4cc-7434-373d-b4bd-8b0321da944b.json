@@ -122,6 +122,7 @@
       "minecraft:endermite": "2024-06-29 19:04:21 +0000",
       "minecraft:spider": "2024-06-29 12:14:49 +0000",
       "minecraft:zombie": "2024-06-22 15:53:20 +0000",
+      "minecraft:creeper": "2024-06-29 20:59:10 +0000",
       "minecraft:shulker": "2024-06-29 19:19:22 +0000"
     },
     "done": false
@@ -2342,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-06-29 21:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-29 16:35:03 +0000"
@@ -2396,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-06-29 21:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-06-29 18:23:22 +0000"
@@ -2417,6 +2430,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-06-29 18:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-06-29 21:09:04 +0000"
     },
     "done": true
   },
@@ -2630,6 +2649,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-06-29 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-06-29 21:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-06-29 17:27:37 +0000"
@@ -2666,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-06-29 20:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-29 16:35:17 +0000"
@@ -2675,6 +2712,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-06-29 18:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-06-29 20:59:22 +0000"
     },
     "done": true
   },
@@ -2699,6 +2742,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-06-29 16:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-06-29 21:09:04 +0000"
     },
     "done": true
   },
