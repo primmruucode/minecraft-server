@@ -7,12 +7,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2024-06-22 18:30:24 +0000",
-      "minecraft:savanna_plateau": "2024-06-21 19:35:08 +0000",
+      "minecraft:cold_ocean": "2024-06-29 18:18:49 +0000",
       "minecraft:snowy_slopes": "2024-06-21 19:18:40 +0000",
-      "minecraft:beach": "2024-06-21 20:19:44 +0000",
       "minecraft:forest": "2024-06-21 19:26:10 +0000",
       "minecraft:taiga": "2024-06-21 20:20:41 +0000",
+      "minecraft:deep_ocean": "2024-06-29 18:23:17 +0000",
+      "minecraft:lush_caves": "2024-06-29 18:38:13 +0000",
+      "minecraft:deep_cold_ocean": "2024-06-29 18:23:16 +0000",
+      "minecraft:frozen_river": "2024-06-21 19:13:34 +0000",
+      "minecraft:jungle": "2024-06-21 19:44:06 +0000",
+      "minecraft:ocean": "2024-06-29 18:27:02 +0000",
+      "minecraft:cherry_grove": "2024-06-21 19:59:35 +0000",
+      "minecraft:birch_forest": "2024-06-21 19:57:20 +0000",
+      "minecraft:snowy_beach": "2024-06-21 20:33:17 +0000",
+      "minecraft:flower_forest": "2024-06-22 18:30:24 +0000",
+      "minecraft:savanna_plateau": "2024-06-21 19:35:08 +0000",
+      "minecraft:beach": "2024-06-21 20:19:44 +0000",
       "minecraft:sparse_jungle": "2024-06-21 19:44:40 +0000",
       "minecraft:river": "2024-06-21 19:15:52 +0000",
       "minecraft:lukewarm_ocean": "2024-06-21 20:33:43 +0000",
@@ -21,13 +31,8 @@
       "minecraft:snowy_taiga": "2024-06-21 18:59:35 +0000",
       "minecraft:dripstone_caves": "2024-06-21 20:59:04 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-21 19:55:18 +0000",
-      "minecraft:frozen_river": "2024-06-21 19:13:34 +0000",
       "minecraft:deep_dark": "2024-06-26 16:25:52 +0000",
-      "minecraft:jungle": "2024-06-21 19:44:06 +0000",
-      "minecraft:cherry_grove": "2024-06-21 19:59:35 +0000",
       "minecraft:meadow": "2024-06-22 18:31:59 +0000",
-      "minecraft:birch_forest": "2024-06-21 19:57:20 +0000",
-      "minecraft:snowy_beach": "2024-06-21 20:33:17 +0000",
       "minecraft:savanna": "2024-06-21 19:33:46 +0000",
       "minecraft:plains": "2024-06-21 19:14:08 +0000",
       "minecraft:jagged_peaks": "2024-06-21 20:25:50 +0000"
@@ -1811,6 +1816,7 @@
       "minecraft:wither_skeleton": "2024-06-29 16:59:29 +0000",
       "minecraft:ravager": "2024-06-26 15:34:36 +0000",
       "minecraft:ghast": "2024-06-25 18:01:01 +0000",
+      "minecraft:ender_dragon": "2024-06-29 18:48:58 +0000",
       "minecraft:hoglin": "2024-06-25 18:42:22 +0000",
       "minecraft:piglin": "2024-06-22 20:46:19 +0000",
       "minecraft:breeze": "2024-06-23 14:54:26 +0000",
@@ -3985,6 +3991,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-06-29 18:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-06-29 18:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-06-29 18:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-06-29 18:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-06-29 17:48:48 +0000"
@@ -3997,9 +4027,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-06-29 18:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-06-29 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-29 18:43:46 +0000"
     },
     "done": true
   },
@@ -4027,9 +4069,45 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-06-29 18:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-06-29 18:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-29 18:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-06-29 17:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-29 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-06-29 18:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-29 18:08:56 +0000"
     },
     "done": true
   },
@@ -4039,15 +4117,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-06-29 18:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-06-29 17:24:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-29 18:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-06-29 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-29 18:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-29 18:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-06-29 18:43:35 +0000"
     },
     "done": true
   },
