@@ -970,7 +970,12 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2024-06-21 19:54:39 +0000",
-      "minecraft:persian": "2024-06-21 19:57:00 +0000"
+      "minecraft:calico": "2024-06-30 13:31:55 +0000",
+      "minecraft:persian": "2024-06-21 19:57:00 +0000",
+      "minecraft:jellie": "2024-06-30 13:04:57 +0000",
+      "minecraft:black": "2024-06-30 13:05:13 +0000",
+      "minecraft:ragdoll": "2024-06-30 13:40:44 +0000",
+      "minecraft:british_shorthair": "2024-06-30 13:25:01 +0000"
     },
     "done": false
   },
@@ -4744,6 +4749,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-29 20:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-30 13:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2024-06-30 13:14:38 +0000"
     },
     "done": true
   },
