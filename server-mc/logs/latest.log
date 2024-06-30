@@ -898,3 +898,8 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [22:54:24] [Server thread/INFO]: Villager cmk['Villager'/1005977, l='ServerLevel[world]', x=858.69, y=49.92, z=-1903.49] died, message: 'Villager burned to death'
 [22:54:25] [Server thread/INFO]: Villager cmk['Villager'/1005782, l='ServerLevel[world]', x=859.36, y=50.71, z=-1905.17] died, message: 'Villager burned to death'
 [22:54:32] [Server thread/INFO]: Villager cmk['Villager'/981443, l='ServerLevel[world]', x=857.65, y=51.89, z=-1903.93] died, message: 'Villager tried to swim in lava'
+[23:05:22] [Server thread/INFO]: Villager cmk['Villager'/1003063, l='ServerLevel[world]', x=857.42, y=51.31, z=-1904.97] died, message: 'Villager tried to swim in lava'
+[23:07:27] [Server thread/INFO]: Villager cmk['Villager'/1009603, l='ServerLevel[world]', x=859.43, y=49.77, z=-1905.67] died, message: 'Villager burned to death'
+[23:07:28] [Server thread/INFO]: Villager cmk['Villager'/1009523, l='ServerLevel[world]', x=858.56, y=50.00, z=-1903.15] died, message: 'Villager burned to death'
+[23:07:28] [Server thread/INFO]: Villager cmk['Villager'/1006902, l='ServerLevel[world]', x=860.24, y=49.88, z=-1903.54] died, message: 'Villager burned to death'
+[23:07:30] [Server thread/INFO]: Villager cmk['Villager'/1009572, l='ServerLevel[world]', x=859.94, y=50.00, z=-1903.97] died, message: 'Villager burned to death'
