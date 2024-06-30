@@ -12,14 +12,19 @@
       "minecraft:taiga": "2024-06-29 18:24:35 +0000",
       "minecraft:deep_ocean": "2024-06-29 18:32:28 +0000",
       "minecraft:lush_caves": "2024-06-28 16:40:55 +0000",
+      "minecraft:deep_cold_ocean": "2024-06-30 16:39:37 +0000",
       "minecraft:eroded_badlands": "2024-06-30 15:45:47 +0000",
+      "minecraft:desert": "2024-06-30 16:15:43 +0000",
       "minecraft:frozen_river": "2024-06-21 19:15:28 +0000",
       "minecraft:jungle": "2024-06-21 19:44:03 +0000",
       "minecraft:ocean": "2024-06-29 18:30:26 +0000",
       "minecraft:cherry_grove": "2024-06-21 19:57:36 +0000",
+      "minecraft:sunflower_plains": "2024-06-30 16:18:18 +0000",
       "minecraft:birch_forest": "2024-06-22 21:33:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-06-29 18:25:34 +0000",
+      "minecraft:wooded_badlands": "2024-06-30 16:32:22 +0000",
       "minecraft:bamboo_jungle": "2024-06-30 15:36:43 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-06-30 16:25:47 +0000",
       "minecraft:badlands": "2024-06-30 15:45:45 +0000",
       "minecraft:flower_forest": "2024-06-30 15:35:52 +0000",
       "minecraft:savanna_plateau": "2024-06-21 19:35:10 +0000",
@@ -28,6 +33,7 @@
       "minecraft:stony_peaks": "2024-06-30 15:42:25 +0000",
       "minecraft:sparse_jungle": "2024-06-21 19:44:40 +0000",
       "minecraft:river": "2024-06-21 19:23:01 +0000",
+      "minecraft:lukewarm_ocean": "2024-06-30 16:17:29 +0000",
       "minecraft:stony_shore": "2024-06-21 19:17:18 +0000",
       "minecraft:snowy_plains": "2024-06-21 18:55:54 +0000",
       "minecraft:snowy_taiga": "2024-06-21 19:00:43 +0000",
@@ -3743,6 +3749,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-06-30 16:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-06-30 16:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-06-30 15:45:58 +0000"
@@ -3761,6 +3785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-06-30 16:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-06-30 15:46:06 +0000"
@@ -3773,9 +3803,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2024-06-30 15:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
     },
     "done": true
   },
@@ -3791,9 +3833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-06-30 15:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
     },
     "done": true
   },
@@ -3827,6 +3881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-06-30 15:45:58 +0000"
@@ -3836,6 +3896,24 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-06-30 15:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-30 16:19:13 +0000"
     },
     "done": true
   },
