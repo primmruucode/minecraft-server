@@ -12,3 +12,7 @@
 [01:42:41] [Server thread/INFO]: goodjob joined the game
 [01:43:56] [Server thread/INFO]: goodjob lost connection: Disconnected
 [01:43:56] [Server thread/INFO]: goodjob left the game
+[03:09:01] [Server thread/INFO]: saintyosl[/152.78.0.251:54824] logged in with entity id 1044029 at (927.3005425073777, 102.0, -1771.3095262246927)
+[03:09:01] [Server thread/INFO]: saintyosl joined the game
+[03:11:14] [Server thread/INFO]: Villager cmk['Villager'/1044289, l='ServerLevel[world]', x=851.50, y=74.56, z=-1897.50] died, message: 'Villager was slain by Zombie'
+[03:34:15] [Server thread/INFO]: Villager cmk['Librarian'/1044414, l='ServerLevel[world]', x=782.32, y=92.62, z=-1828.22] died, message: 'Librarian was slain by Zombie'
