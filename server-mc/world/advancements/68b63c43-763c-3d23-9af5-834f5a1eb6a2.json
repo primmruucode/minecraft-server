@@ -19,10 +19,14 @@
       "minecraft:ocean": "2024-06-29 18:27:02 +0000",
       "minecraft:cherry_grove": "2024-06-21 19:59:35 +0000",
       "minecraft:birch_forest": "2024-06-21 19:57:20 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-06-30 15:38:59 +0000",
       "minecraft:snowy_beach": "2024-06-21 20:33:17 +0000",
+      "minecraft:bamboo_jungle": "2024-06-30 15:36:47 +0000",
       "minecraft:flower_forest": "2024-06-22 18:30:24 +0000",
       "minecraft:savanna_plateau": "2024-06-21 19:35:08 +0000",
       "minecraft:beach": "2024-06-21 20:19:44 +0000",
+      "minecraft:dark_forest": "2024-06-30 15:24:14 +0000",
+      "minecraft:stony_peaks": "2024-06-30 15:42:24 +0000",
       "minecraft:sparse_jungle": "2024-06-21 19:44:40 +0000",
       "minecraft:river": "2024-06-21 19:15:52 +0000",
       "minecraft:lukewarm_ocean": "2024-06-21 20:33:43 +0000",
@@ -1830,6 +1834,7 @@
       "minecraft:piglin_brute": "2024-06-22 20:44:46 +0000",
       "minecraft:zombie": "2024-06-21 21:19:20 +0000",
       "minecraft:creeper": "2024-06-22 13:59:58 +0000",
+      "minecraft:zombie_villager": "2024-06-30 15:56:25 +0000",
       "minecraft:slime": "2024-06-23 14:55:57 +0000"
     },
     "done": false
@@ -4260,6 +4265,72 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2024-06-29 20:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-06-30 15:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-30 15:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-06-30 15:25:39 +0000"
     },
     "done": true
   },
