@@ -329,3 +329,12 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:54:49] [Server thread/INFO]: [rimmairuuz: Gave 2 [Netherite Pickaxe] to rimmairuuz]
 [18:56:47] [Server thread/INFO]: [rimmairuuz: Gave 2 [Netherite Shovel] to rimmairuuz]
 [18:58:29] [Server thread/INFO]: [rimmairuuz: Killed 871 entities]
+[19:00:17] [Server thread/INFO]: [rimmairuuz: Killed 370 entities]
+[19:01:49] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[19:01:55] [Server thread/INFO]: [rimmairuuz: Set goodjob's game mode to Creative Mode]
+[19:02:08] [Server thread/INFO]: [rimmairuuz: Killed 237 entities]
+[19:16:52] [Server thread/INFO]: [rimmairuuz: Saved the game]
+[19:16:53] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[19:16:53] [Server thread/INFO]: rimmairuuz left the game
+[19:16:55] [Server thread/INFO]: goodjob lost connection: Disconnected
+[19:16:55] [Server thread/INFO]: goodjob left the game
