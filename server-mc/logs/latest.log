@@ -600,3 +600,19 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [20:36:55] [Server thread/INFO]: [rimmairuuz: Gave 4 [Cherry Sign] to rimmairuuz]
 [20:39:55] [Server thread/INFO]: [rimmairuuz: Gave 1 [Stone Slab] to rimmairuuz]
 [20:43:21] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[21:20:34] [Server thread/INFO]: [rimmairuuz: Set goodjob's game mode to Creative Mode]
+[22:01:56] [Server thread/INFO]: [rimmairuuz: Gave 1 [Enchanted Book] to rimmairuuz]
+[22:02:07] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[22:02:09] [Server thread/INFO]: [rimmairuuz: Gave 1 [Enchanted Book] to rimmairuuz]
+[22:02:35] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[22:03:10] [Server thread/INFO]: [rimmairuuz: Gave 1 [Enchanted Book] to goodjob]
+[22:03:32] [Server thread/INFO]: [rimmairuuz: Set goodjob's game mode to Survival Mode]
+[22:03:35] [Server thread/INFO]: [rimmairuuz: Gave 1 [Enchanted Book] to goodjob]
+[22:03:43] [Server thread/INFO]: [rimmairuuz: Set goodjob's game mode to Creative Mode]
+[22:40:51] [Server thread/INFO]: rimmairuuz has made the advancement [Hot Stuff]
+[22:57:41] [Server thread/INFO]: [rimmairuuz: Set goodjob's game mode to Survival Mode]
+[22:57:48] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[22:57:51] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[22:57:51] [Server thread/INFO]: rimmairuuz left the game
+[23:24:21] [Server thread/INFO]: goodjob lost connection: Disconnected
+[23:24:21] [Server thread/INFO]: goodjob left the game

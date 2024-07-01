@@ -3971,5 +3971,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-06-30 22:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-06-30 21:26:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
