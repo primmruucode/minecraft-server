@@ -4765,6 +4765,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-06-30 16:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2024-06-30 16:32:08 +0000"
@@ -4777,18 +4783,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-06-30 17:17:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-06-30 16:29:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-06-30 16:32:31 +0000"
@@ -4798,6 +4792,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-06-30 16:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-06-30 17:17:04 +0000"
     },
     "done": true
   },

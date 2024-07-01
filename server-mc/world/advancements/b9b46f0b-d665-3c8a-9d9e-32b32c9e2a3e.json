@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-06-30 15:39:22 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-07-01 17:17:12 +0000",
       "minecraft:forest": "2024-06-21 19:26:20 +0000",
       "minecraft:taiga": "2024-06-29 18:24:35 +0000",
       "minecraft:deep_ocean": "2024-06-29 18:32:28 +0000",
@@ -24,6 +25,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-06-29 18:25:34 +0000",
       "minecraft:wooded_badlands": "2024-06-30 16:32:22 +0000",
       "minecraft:bamboo_jungle": "2024-06-30 15:36:43 +0000",
+      "minecraft:warm_ocean": "2024-07-01 17:23:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-06-30 16:25:47 +0000",
       "minecraft:badlands": "2024-06-30 15:45:45 +0000",
       "minecraft:flower_forest": "2024-06-30 15:35:52 +0000",
@@ -1001,10 +1003,12 @@
       "minecraft:breeze": "2024-06-23 15:26:49 +0000",
       "minecraft:stray": "2024-06-23 15:32:16 +0000",
       "minecraft:enderman": "2024-06-28 15:40:42 +0000",
+      "minecraft:silverfish": "2024-07-01 18:48:31 +0000",
       "minecraft:spider": "2024-06-22 18:15:22 +0000",
       "minecraft:zombie": "2024-06-21 21:28:28 +0000",
       "minecraft:creeper": "2024-06-27 03:42:14 +0000",
       "minecraft:drowned": "2024-06-24 16:51:11 +0000",
+      "minecraft:zombie_villager": "2024-07-01 16:27:13 +0000",
       "minecraft:slime": "2024-06-22 18:13:21 +0000"
     },
     "done": false
