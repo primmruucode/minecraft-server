@@ -162,3 +162,12 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:19:23] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[06:22:07] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[06:25:58] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[06:27:09] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[06:27:09] [Server thread/INFO]: rimmairuuz left the game
+[06:31:59] [Server thread/INFO]: rimmairuuz[/124.120.77.233:54183] logged in with entity id 1464259 at (848.3631902988121, 113.0, -1697.699999988079)
+[06:31:59] [Server thread/INFO]: rimmairuuz joined the game
+[06:32:14] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[06:32:14] [Server thread/INFO]: rimmairuuz left the game
