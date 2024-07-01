@@ -171,3 +171,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [06:31:59] [Server thread/INFO]: rimmairuuz joined the game
 [06:32:14] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
 [06:32:14] [Server thread/INFO]: rimmairuuz left the game
+[10:00:25] [Server thread/INFO]: KornZa[/49.228.105.11:55418] logged in with entity id 1464901 at (913.716984288291, 94.0, -1619.0337499841835)
+[10:00:25] [Server thread/INFO]: KornZa joined the game
+[10:37:53] [Server thread/INFO]: KornZa lost connection: Disconnected
+[10:37:53] [Server thread/INFO]: KornZa left the game
