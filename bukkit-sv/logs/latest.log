@@ -1,0 +1,33 @@
+[02:26:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:26:18] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:26:19] [ServerMain/INFO]: No existing world data, creating new world
+[02:26:20] [ServerMain/INFO]: Loaded 1290 recipes
+[02:26:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:26:21] [Server thread/INFO]: Loading properties
+[02:26:21] [Server thread/INFO]: Default game type: SURVIVAL
+[02:26:21] [Server thread/INFO]: Generating keypair
+[02:26:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:26:21] [Server thread/INFO]: Using epoll channel type
+[02:26:21] [Server thread/INFO]: This server is running CraftBukkit version 4226-Bukkit-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:26:22] [Server thread/INFO]: Preparing level "world"
+[02:26:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:26:28] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[02:26:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:26:29] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[02:26:30] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[02:26:30] [Worker-Main-6/INFO]: Preparing spawn area: 26%
+[02:26:31] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[02:26:31] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[02:26:31] [Server thread/INFO]: Time elapsed: 3162 ms
+[02:26:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:26:31] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:26:32] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[02:26:32] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[02:26:33] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[02:26:33] [Server thread/INFO]: Time elapsed: 1730 ms
+[02:26:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:26:33] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:26:33] [Server thread/INFO]: Time elapsed: 307 ms
+[02:26:33] [Server thread/INFO]: Done (11.602s)! For help, type "help"
+[02:27:08] [Thread-1/INFO]: Stopping server
+[02:27:08] [Thread-1/INFO]: Saving players
