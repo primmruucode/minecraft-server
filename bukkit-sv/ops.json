@@ -4,5 +4,11 @@
     "name": "rimmairuuz",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e",
+    "name": "goodjob",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
