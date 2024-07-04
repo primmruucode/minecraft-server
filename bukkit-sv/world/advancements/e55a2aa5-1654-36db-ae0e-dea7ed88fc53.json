@@ -2163,12 +2163,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-07-03 01:16:15 +0700"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-07-03 01:16:14 +0700"
@@ -2180,6 +2174,12 @@
       "entered_nether": "2024-07-03 01:16:14 +0700"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-07-03 01:16:15 +0700"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
