@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-06-30 01:18:49 +0700",
       "minecraft:snowy_slopes": "2024-06-22 02:18:40 +0700",
+      "minecraft:old_growth_pine_taiga": "2024-07-03 08:10:08 +0700",
       "minecraft:forest": "2024-06-22 02:26:10 +0700",
       "minecraft:taiga": "2024-06-22 03:20:41 +0700",
       "minecraft:deep_ocean": "2024-06-30 01:23:17 +0700",
@@ -26,6 +27,7 @@
       "minecraft:snowy_beach": "2024-06-22 03:33:17 +0700",
       "minecraft:wooded_badlands": "2024-06-30 23:32:15 +0700",
       "minecraft:bamboo_jungle": "2024-06-30 22:36:47 +0700",
+      "minecraft:warm_ocean": "2024-07-03 08:15:33 +0700",
       "minecraft:deep_lukewarm_ocean": "2024-06-30 23:25:49 +0700",
       "minecraft:badlands": "2024-06-30 23:16:21 +0700",
       "minecraft:flower_forest": "2024-06-23 01:30:24 +0700",
@@ -1831,6 +1833,7 @@
       "minecraft:piglin_brute": "2024-06-23 03:44:46 +0700",
       "minecraft:creeper": "2024-06-22 20:59:58 +0700",
       "minecraft:slime": "2024-06-23 21:55:57 +0700",
+      "minecraft:phantom": "2024-07-03 09:57:53 +0700",
       "minecraft:zombified_piglin": "2024-06-26 01:36:14 +0700",
       "minecraft:witch": "2024-06-23 23:14:45 +0700",
       "minecraft:wither_skeleton": "2024-06-29 23:59:29 +0700",
@@ -4381,6 +4384,72 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-07-02 05:12:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-07-03 08:19:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-07-03 08:19:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-03 09:21:16 +0700"
     },
     "done": true
   },
