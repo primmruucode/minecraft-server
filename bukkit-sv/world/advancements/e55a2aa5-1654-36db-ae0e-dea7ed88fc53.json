@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-07-01 01:25:58 +0700",
+      "minecraft:taiga": "2024-07-06 04:18:15 +0700",
       "minecraft:cherry_grove": "2024-06-30 23:09:44 +0700",
       "minecraft:river": "2024-07-01 01:25:52 +0700",
       "minecraft:dripstone_caves": "2024-07-01 03:05:02 +0700",
@@ -359,6 +360,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-07-06 04:19:19 +0700",
       "minecraft:skeleton": "2024-07-01 03:16:24 +0700",
       "minecraft:enderman": "2024-07-01 03:41:07 +0700",
       "minecraft:silverfish": "2024-07-02 01:48:19 +0700",
@@ -2180,6 +2182,24 @@
       "minecraft:soul_sand_valley": "2024-07-03 01:16:15 +0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-07-05 00:35:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-07-05 00:35:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-07-06 04:23:31 +0700"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
