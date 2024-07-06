@@ -8,3 +8,67 @@
 [00:48:02] [Server thread/INFO]: KornZa left the game
 [00:49:35] [Server thread/INFO]: goodjob lost connection: Disconnected
 [00:49:35] [Server thread/INFO]: goodjob left the game
+[01:07:17] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[01:07:17] [Server thread/INFO]: mu_________ left the game
+[01:13:06] [User Authenticator #15/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[01:13:07] [Server thread/INFO]: goodjob joined the game
+[01:13:07] [Server thread/INFO]: goodjob[/31.205.87.190:63847] logged in with entity id 176636 at ([world]1040.5, 63.0, -1593.5)
+[01:13:55] [Server thread/INFO]: goodjob lost connection: Disconnected
+[01:13:55] [Server thread/INFO]: goodjob left the game
+[01:16:01] [User Authenticator #16/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[01:16:02] [Server thread/INFO]: HoM joined the game
+[01:16:02] [Server thread/INFO]: HoM[/49.228.105.227:25517] logged in with entity id 178544 at ([world]921.594756088698, 94.0, -1628.8521979043878)
+[01:16:46] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[01:16:46] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[01:59:20] [User Authenticator #17/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[01:59:21] [Server thread/INFO]: goodjob joined the game
+[01:59:21] [Server thread/INFO]: goodjob[/31.205.87.190:54137] logged in with entity id 189489 at ([world]894.4692574346824, 81.0, -1803.0877777911278)
+[01:59:26] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[01:59:26] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[01:59:46] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[01:59:46] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:07:15] [Server thread/INFO]: goodjob lost connection: Disconnected
+[02:07:15] [Server thread/INFO]: goodjob left the game
+[02:17:16] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[02:17:16] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[02:18:25] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[02:18:25] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:30:40] [User Authenticator #18/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[02:30:42] [Server thread/INFO]: goodjob joined the game
+[02:30:42] [Server thread/INFO]: goodjob[/31.205.87.190:54564] logged in with entity id 197956 at ([world]1054.0048908719393, 63.0, -1600.2829055004472)
+[02:30:46] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[02:30:46] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[02:31:11] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[02:31:11] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:34:53] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[02:34:53] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[02:37:03] [Server thread/INFO]: HoM was slain by goodjob
+[02:40:46] [User Authenticator #19/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
+[02:40:48] [Server thread/INFO]: saintyosl joined the game
+[02:40:48] [Server thread/INFO]: saintyosl[/152.78.0.251:57607] logged in with entity id 202620 at ([world]927.4010506082158, 106.5, -1756.1829997884352)
+[02:41:11] [Server thread/INFO]: HoM lost connection: Disconnected
+[02:41:11] [Server thread/INFO]: HoM left the game
+[02:41:17] [User Authenticator #20/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[02:41:17] [Server thread/INFO]: HoM joined the game
+[02:41:17] [Server thread/INFO]: HoM[/49.228.105.227:12669] logged in with entity id 202966 at ([world]911.537920288118, 94.0, -1618.7486654845338)
+[02:45:48] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[02:45:48] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:46:46] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[02:46:46] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[02:47:18] [Server thread/INFO]: HoM lost connection: Disconnected
+[02:47:18] [Server thread/INFO]: HoM left the game
+[02:47:45] [User Authenticator #21/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[02:47:46] [Server thread/INFO]: HoM joined the game
+[02:47:46] [Server thread/INFO]: HoM[/49.228.105.227:13078] logged in with entity id 206423 at ([world]922.2072497462747, 94.0, -1621.9159514929124)
+[02:48:04] [Server thread/INFO]: HoM lost connection: Disconnected
+[02:48:04] [Server thread/INFO]: HoM left the game
+[02:52:56] [Server thread/INFO]: goodjob lost connection: Disconnected
+[02:52:56] [Server thread/INFO]: goodjob left the game
+[02:53:41] [User Authenticator #22/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[02:53:42] [Server thread/INFO]: HoM joined the game
+[02:53:42] [Server thread/INFO]: HoM[/49.228.105.227:13636] logged in with entity id 209813 at ([world]926.4018743537897, 94.0, -1602.81184943437)
+[02:53:52] [Server thread/WARN]: HoM moved wrongly!
+[02:54:07] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[02:54:07] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:54:23] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[02:54:23] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
