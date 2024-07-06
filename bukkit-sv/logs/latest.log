@@ -50,3 +50,27 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 [13:35:24] [Server thread/INFO]: rimmairuuz left the game
 [13:42:52] [Server thread/INFO]: mu_________ was squished too much
 [13:47:32] [Netty Epoll Server IO #0/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:02:04] [Server thread/INFO]: Villager EntityVillager['Villager'/25614, l='ServerLevel[world]', x=8230.44, y=70.00, z=-1495.38] died, message: 'Villager was slain by Zombie'
+[14:13:45] [User Authenticator #3/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[14:13:45] [Server thread/INFO]: rimmairuuz joined the game
+[14:13:45] [Server thread/INFO]: rimmairuuz[/110.169.231.250:53645] logged in with entity id 41305 at ([world]853.1504890589028, 109.0, -1686.8846784308355)
+[14:16:34] [Server thread/WARN]: mu_________ moved too quickly! 23.059485299654625,4.299521030669737,1.0843128543751845
+[14:17:33] [Server thread/INFO]: rimmairuuz has made the advancement [Ice Bucket Challenge]
+[14:18:13] [Server thread/INFO]: rimmairuuz discovered the floor was lava
+[14:19:48] [Server thread/INFO]: rimmairuuz issued server command: /gamerule sendCommandFeedback false
+[14:19:48] [Server thread/INFO]: [rimmairuuz: Gamerule sendCommandFeedback is now set to: false]
+[14:19:54] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[14:19:54] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[14:26:40] [Server thread/INFO]: rimmairuuz issued server command: /give mu_________ minecraft:firework_rocket 64
+[14:26:40] [Server thread/INFO]: [rimmairuuz: Gave 64 [Firework Rocket] to mu_________]
+[14:29:47] [Server thread/INFO]: mu_________ drowned
+[14:30:01] [Server thread/INFO]: rimmairuuz issued server command: /gamemode s
+[14:30:05] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[14:30:05] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[14:45:47] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:wheat_seeds 64
+[14:45:47] [Server thread/INFO]: [rimmairuuz: Gave 64 [Wheat Seeds] to rimmairuuz]
+[15:01:45] [Server thread/INFO]: rimmairuuz was slain by mu_________
+[15:09:53] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[15:09:53] [Server thread/INFO]: mu_________ left the game
+[15:15:19] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[15:15:19] [Server thread/INFO]: rimmairuuz left the game
