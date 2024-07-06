@@ -456,6 +456,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-07-06 22:41:13 +0700",
       "minecraft:skeleton": "2024-06-23 17:44:01 +0700",
       "minecraft:elder_guardian": "2024-07-06 01:11:00 +0700",
       "minecraft:guardian": "2024-07-02 00:32:17 +0700",
@@ -2644,15 +2645,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2024-07-06 01:13:20 +0700"
+      "has_water_bucket": "2024-07-06 01:08:58 +0700"
     },
     "done": true
   },
@@ -2662,27 +2657,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
-      "has_cod": "2024-07-06 01:32:33 +0700"
+      "has_prismarine_bricks": "2024-07-06 01:09:19 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+      "has_prismarine_brick": "2024-07-06 01:09:19 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
-      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2024-07-06 01:13:20 +0700"
+      "has_prismarine_bricks": "2024-07-06 01:09:19 +0700"
     },
     "done": true
   },
@@ -2692,9 +2681,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_prismarine_bricks": "2024-07-06 01:09:19 +0700"
+      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-07-06 01:13:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-07-06 01:13:20 +0700"
     },
     "done": true
   },
@@ -2704,13 +2717,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_water_bucket": "2024-07-06 01:08:58 +0700"
+      "has_prismarine": "2024-07-06 01:13:20 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-07-06 01:13:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-07-06 01:13:20 +0700"
     },
@@ -2722,21 +2741,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
-      "has_cod": "2024-07-06 01:32:33 +0700"
+      "has_tide_armor_trim_smithing_template": "2024-07-06 01:14:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "has_prismarine_brick": "2024-07-06 01:09:19 +0700"
+      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
-      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
     },
     "done": true
   },
@@ -2746,9 +2765,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
-      "has_prismarine_shard": "2024-07-06 01:11:12 +0700"
+      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-07-06 01:32:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-07-06 01:32:33 +0700"
     },
     "done": true
   },
@@ -2758,33 +2789,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_prismarine_bricks": "2024-07-06 01:09:19 +0700"
+      "voluntary_exile": "2024-07-06 22:41:13 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_prismarine": "2024-07-06 01:13:20 +0700"
+      "has_amethyst_shard": "2024-07-06 22:51:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_tide_armor_trim_smithing_template": "2024-07-06 01:14:12 +0700"
+      "has_amethyst_shard": "2024-07-06 22:51:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_dark_prismarine": "2024-07-06 01:19:59 +0700"
+      "has_amethyst_shard": "2024-07-06 22:51:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_prismarine": "2024-07-06 01:13:20 +0700"
+      "has_amethyst_shard": "2024-07-06 22:51:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-07-06 23:51:50 +0700"
     },
     "done": true
   },

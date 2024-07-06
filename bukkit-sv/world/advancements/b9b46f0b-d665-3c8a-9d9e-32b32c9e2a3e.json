@@ -4262,9 +4262,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_needed_dye": "2024-07-06 04:07:14 +0700"
+      "has_sherd": "2024-07-06 03:48:50 +0700",
+      "trail_ruins_rare": "2024-07-06 03:48:36 +0700"
     },
     "done": true
   },
@@ -4274,70 +4275,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
-    "criteria": {
-      "has_host_armor_trim_smithing_template": "2024-07-06 03:49:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2024-07-06 03:48:47 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-07-06 03:48:47 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wayfinder_armor_trim_smithing_template": "2024-07-06 03:49:48 +0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-07-06 03:48:50 +0700",
-      "trail_ruins_rare": "2024-07-06 03:48:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
     },
     "done": true
   },
@@ -4359,33 +4305,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
     "criteria": {
-      "voluntary_exile": "2024-07-06 04:19:01 +0700"
+      "has_host_armor_trim_smithing_template": "2024-07-06 03:49:05 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_needed_dye": "2024-07-06 04:07:14 +0700"
+      "has_smithing_trim_template": "2024-07-06 03:49:05 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
-      "has_packed_mud": "2024-07-06 03:59:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-07-06 04:07:14 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2024-07-06 03:59:00 +0700"
+      "has_wayfinder_armor_trim_smithing_template": "2024-07-06 03:49:48 +0700"
     },
     "done": true
   },
@@ -4395,9 +4329,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
-      "has_smithing_trim_template": "2024-07-06 03:49:05 +0700"
+      "has_blue_terracotta": "2024-07-06 03:59:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-07-06 03:59:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-07-06 04:07:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-07-06 04:19:01 +0700"
     },
     "done": true
   },

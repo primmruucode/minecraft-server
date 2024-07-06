@@ -79,3 +79,94 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 [20:12:25] [Server thread/INFO]: [rimmairuuz: Gave 1 [Netherite Pickaxe] to rimmairuuz]
 [20:19:05] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
 [20:19:05] [Server thread/INFO]: rimmairuuz left the game
+[21:06:39] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[21:06:39] [Server thread/INFO]: mu_________ left the game
+[21:08:36] [Server thread/INFO]: Villager EntityVillager['Shepherd'/25242, l='ServerLevel[world]', x=-188.70, y=108.00, z=-1934.36] died, message: 'Shepherd was slain by Zombie'
+[21:16:59] [Server thread/INFO]: saintyosl lost connection: Disconnected
+[21:16:59] [Server thread/INFO]: saintyosl left the game
+[21:39:12] [User Authenticator #6/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
+[21:39:14] [Server thread/INFO]: saintyosl joined the game
+[21:39:14] [Server thread/INFO]: saintyosl[/152.78.0.251:4687] logged in with entity id 50349 at ([world]-796.5438239961205, 59.0, -2539.3317251341614)
+[21:39:49] [User Authenticator #7/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[21:39:51] [Server thread/INFO]: goodjob joined the game
+[21:39:51] [Server thread/INFO]: goodjob[/31.205.87.190:63132] logged in with entity id 50649 at ([world]888.5741292462503, 50.0, -1618.9687194535895)
+[21:42:52] [Server thread/INFO]: goodjob issued server command: /gamemode creative
+[21:42:52] [Server thread/INFO]: [goodjob: Set own game mode to Creative Mode]
+[22:00:57] [Server thread/INFO]: goodjob issued server command: /gamemode survival
+[22:00:57] [Server thread/INFO]: [goodjob: Set own game mode to Survival Mode]
+[22:17:02] [User Authenticator #8/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[22:17:03] [Server thread/INFO]: HoM joined the game
+[22:17:03] [Server thread/INFO]: HoM[/49.228.105.227:10606] logged in with entity id 85365 at ([world]17934.866475295294, 60.115206238416754, 10444.92118771038)
+[22:22:21] [Server thread/INFO]: saintyosl lost connection: Disconnected
+[22:22:21] [Server thread/INFO]: saintyosl left the game
+[22:25:46] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:25:46] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:26:10] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[22:26:10] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[22:26:34] [Server thread/INFO]: HoM issued server command: /gamerule keepInventory true
+[22:26:34] [Server thread/INFO]: [HoM: Gamerule keepInventory is now set to: true]
+[22:26:38] [Server thread/WARN]: goodjob moved wrongly!
+[22:27:31] [Server thread/INFO]: HoM issued server command: /effect clear
+[22:27:31] [Server thread/INFO]: [HoM: Removed every effect from HoM]
+[22:27:53] [Server thread/INFO]: HoM fell from a high place
+[22:32:01] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:32:01] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:38:08] [User Authenticator #9/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
+[22:38:10] [Server thread/INFO]: saintyosl joined the game
+[22:38:10] [Server thread/INFO]: saintyosl[/152.78.0.251:21463] logged in with entity id 102851 at ([world]912.0965669417224, 94.0, -1622.8672128464525)
+[22:38:31] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[22:38:31] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[22:39:12] [User Authenticator #10/INFO]: UUID of player KornZa is fb07c44b-9628-3a07-81cf-4ad3c162114f
+[22:39:15] [Server thread/INFO]: KornZa joined the game
+[22:39:15] [Server thread/INFO]: KornZa[/49.228.105.11:64721] logged in with entity id 103152 at ([world]-152.29191416107284, 112.33422673596796, -731.0054798843979)
+[22:41:03] [User Authenticator #11/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[22:41:04] [Server thread/INFO]: mu_________ joined the game
+[22:41:04] [Server thread/INFO]: mu_________[/58.8.159.108:62274] logged in with entity id 107588 at ([world]960.7714728667173, 80.0, -1649.3111448935329)
+[22:41:13] [Server thread/INFO]: KornZa has made the advancement [Voluntary Exile]
+[22:43:19] [Server thread/INFO]: goodjob lost connection: Disconnected
+[22:43:19] [Server thread/INFO]: goodjob left the game
+[22:43:36] [User Authenticator #12/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[22:43:37] [Server thread/INFO]: goodjob joined the game
+[22:43:37] [Server thread/INFO]: goodjob[/31.205.87.190:50869] logged in with entity id 110351 at ([world]929.0976836535407, 94.0, -1628.4189226171684)
+[22:51:29] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:51:29] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:52:23] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[22:52:23] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[22:57:05] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:57:05] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:58:15] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[22:58:15] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:00:41] [Server thread/INFO]: HoM issued server command: /weather clear
+[23:00:41] [Server thread/INFO]: [HoM: Set the weather to clear]
+[23:08:52] [Server thread/WARN]: mu_________ moved too quickly! -29.201067493989626,-15.052784318495085,35.10030682053093
+[23:09:10] [Server thread/INFO]: saintyosl lost connection: Disconnected
+[23:09:10] [Server thread/INFO]: saintyosl left the game
+[23:16:51] [Server thread/INFO]: goodjob experienced kinetic energy while trying to escape KornZa
+[23:19:41] [Server thread/INFO]: KornZa was burned to a crisp while fighting goodjob
+[23:19:48] [Server thread/INFO]: goodjob was slain by KornZa
+[23:20:09] [Server thread/INFO]: goodjob was slain by KornZa
+[23:20:30] [Server thread/INFO]: KornZa was slain by goodjob
+[23:20:48] [Server thread/INFO]: goodjob was slain by KornZa
+[23:21:09] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[23:21:09] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[23:21:15] [Server thread/INFO]: goodjob was slain by KornZa
+[23:22:08] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[23:22:08] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:22:38] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[23:22:38] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[23:22:42] [Server thread/INFO]: KornZa experienced kinetic energy while trying to escape goodjob
+[23:22:55] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[23:22:55] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:23:33] [Server thread/INFO]: goodjob experienced kinetic energy
+[23:23:45] [Server thread/INFO]: HoM lost connection: Disconnected
+[23:23:45] [Server thread/INFO]: HoM left the game
+[23:24:02] [Server thread/INFO]: KornZa was doomed to fall by goodjob
+[23:25:24] [Server thread/INFO]: goodjob was slain by KornZa
+[23:26:05] [Server thread/INFO]: KornZa lost connection: Disconnected
+[23:26:05] [Server thread/INFO]: KornZa left the game
+[23:32:24] [Server thread/INFO]: mu_________ was doomed to fall by Drowned
+[23:50:39] [User Authenticator #13/INFO]: UUID of player KornZa is fb07c44b-9628-3a07-81cf-4ad3c162114f
+[23:50:40] [Server thread/INFO]: KornZa joined the game
+[23:50:40] [Server thread/INFO]: KornZa[/49.228.105.11:65428] logged in with entity id 145633 at ([world]918.5383099089353, 50.0, -1915.9710377347121)
+[23:51:47] [Server thread/INFO]: goodjob was slain by KornZa
+[23:52:49] [Server thread/INFO]: KornZa was slain by goodjob
