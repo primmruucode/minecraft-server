@@ -72,3 +72,11 @@
 [02:54:07] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
 [02:54:23] [Server thread/INFO]: HoM issued server command: /gamemode survival
 [02:54:23] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:12:27] [Server thread/INFO]: HoM has completed the challenge [Smithing with Style]
+[03:13:15] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[03:13:15] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[03:14:05] [Server thread/INFO]: HoM issued server command: /
+[03:14:11] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[03:14:11] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:14:14] [Server thread/INFO]: HoM lost connection: Disconnected
+[03:14:14] [Server thread/INFO]: HoM left the game

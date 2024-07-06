@@ -4406,9 +4406,16 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2024-06-27 01:03:07 +0700"
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2024-06-27 01:03:07 +0700",
+      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:12:27 +0700",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:10:44 +0700",
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:05:05 +0700",
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:07:58 +0700",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:08:07 +0700",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:07:48 +0700",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-07-07 03:05:34 +0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
