@@ -209,3 +209,29 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [14:03:21] [Server thread/INFO]: [HoM: Set the weather to clear]
 [14:07:37] [Server thread/INFO]: HoM lost connection: Disconnected
 [14:07:37] [Server thread/INFO]: HoM left the game
+[15:19:43] [User Authenticator #26/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[15:19:44] [Server thread/INFO]: mu_________ joined the game
+[15:19:44] [Server thread/INFO]: mu_________[/58.8.159.108:50727] logged in with entity id 265013 at ([world]1183.9245097164016, 64.0, -1588.6445539309852)
+[15:21:29] [Server thread/WARN]: mu_________ moved wrongly!
+[16:20:20] [Server thread/INFO]: mu_________ tried to swim in lava
+[16:23:00] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[16:23:00] [Server thread/INFO]: mu_________ left the game
+[16:28:37] [User Authenticator #27/INFO]: UUID of player KornZa is fb07c44b-9628-3a07-81cf-4ad3c162114f
+[16:28:38] [Server thread/INFO]: KornZa joined the game
+[16:28:38] [Server thread/INFO]: KornZa[/184.22.16.7:62202] logged in with entity id 289839 at ([world]902.0273539401281, 200.0, -1826.300000011921)
+[16:29:17] [Server thread/INFO]: KornZa fell from a high place
+[16:29:24] [Server thread/INFO]: KornZa fell from a high place
+[16:36:10] [Server thread/INFO]: KornZa was squished too much
+[16:36:32] [Server thread/INFO]: KornZa lost connection: Disconnected
+[16:36:32] [Server thread/INFO]: KornZa left the game
+[16:43:03] [Server thread/INFO]: Stopping the server
+[16:43:03] [Server thread/INFO]: Stopping server
+[16:43:03] [Server thread/INFO]: Saving players
+[16:43:03] [Server thread/INFO]: Saving worlds
+[16:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
