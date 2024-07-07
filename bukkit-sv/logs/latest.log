@@ -205,3 +205,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [13:21:41] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
 [13:26:02] [Server thread/INFO]: HoM issued server command: /gamemode creative
 [13:26:02] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[14:03:21] [Server thread/INFO]: HoM issued server command: /weather clear
+[14:03:21] [Server thread/INFO]: [HoM: Set the weather to clear]
+[14:07:37] [Server thread/INFO]: HoM lost connection: Disconnected
+[14:07:37] [Server thread/INFO]: HoM left the game
