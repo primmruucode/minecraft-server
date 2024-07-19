@@ -1,0 +1,101 @@
+# Config file for ArmoredElytra. Don't forget to make a backup before making changes!
+
+# Setting this to true will cause armored elytras to be unbreakable.
+# Changing this to false will NOT make unbreakable elytras breakable again!
+unbreakable: false
+
+# Setting this to true will cause armored elytras to not lose any durability while flying.
+# This is not a permanent option and will affect ALL elytras.
+noFlightDurability: false
+
+# Use the maximum durability of the armor tier of armored elytras.
+# For example, when this is true, a diamond armored elytra would have a durability of 528.
+# When this is false, all armored elytras have the maximum durability of a regular elytra.
+useTierDurability: true
+
+# Amount of items it takes to fully repair an armored elytra
+# Repair cost for every tier of armored elytra in number of items to repair 100%.
+# Note that this value cannot be less than 1.
+leather: 6
+goldIngot: 6
+ironIngot: 4
+ironIngot: 4
+diamond: 3
+netheriteIngot: 3
+
+# When enabled, armored elytra creation in anvils is disabled. 
+# Instead, you will have to craft them in a smithy. Enchanting/repairing them still works via the anvil.
+craftingInSmithingTable: true
+
+# Whether or not to allow upgrading diamond armored elytras to netherite ones is possible.
+# When allowed, you can combine a diamond one with a netherite ingot in a smithing table
+# and you'll receive a netherite one.
+allowUpgradeToNetherite: true
+
+# List of enchantments that are allowed to be put on an armored elytra.
+# If you do not want to allow any enchantments at all, remove them all and add "NONE"
+# You can find supported enchantments by running the command:
+# "armoredelytra listAvailableEnchantments" in console
+# If you install additional enchantment plugins, you can add their enchantments as well.
+# Just add their 'NamespacedKey'. Ask the enchantment plugin dev for more info if you need it.
+allowedEnchantments: 
+  - minecraft:unbreaking
+  - minecraft:fire_protection
+  - minecraft:blast_protection
+  - minecraft:projectile_protection
+  - minecraft:protection
+  - minecraft:thorns
+  - minecraft:binding_curse
+  - minecraft:vanishing_curse
+  - minecraft:mending
+
+# The lists of enchantments that are mutually exclusive.
+# Each group [] on this list is treated as mutually exclusive, so only one of them can be on an ArmoredElytra.
+# The default follows modern vanilla rules by making the different types of protection mutually exclusive.
+# If you do not want any enchantments to be mutually exclusive, replace all the entries in this list with "[]"
+# You can find supported enchantments by running the command:
+# "armoredelytra listAvailableEnchantments" in console
+# If you install additional enchant plugins, you can make their enchantments mutually exclusive as well.
+# Just add their 'NamespacedKey'. Ask the enchantment plugin dev for more info if you need it.
+mutuallyExclusiveEnchantments: 
+  - [minecraft:protection, minecraft:projectile_protection, minecraft:blast_protection, minecraft:fire_protection]
+
+# Allow new enchantments to be added to armored elytras.
+# When false, no enchantments can be added to armored elytras, even those on the allowed list.
+# When true, only enchantments from the allowed list can be added.
+allowAddingEnchantments: true
+
+# Whether or not to allow renaming of armored elytras in anvils.
+allowRenaming: true
+
+# Whether to drop Netherite Armored Elytras as netherite chestplates when they are dropped
+# This means that they won't burn in lava etc.
+# When you pick them up, they will turn into Netherite Armored Elytras again.
+# Only applies to versions prior to 1.20.5. 
+# In 1.20.5 and later, newly-created netherite elytras are already fire resistant.
+dropNetheriteAsChestplate: true
+
+# Allow this plugin to check for updates on startup. It will not download new versions on its own!
+checkForUpdates: true
+
+# Allow this plugin to send (anonymous) stats using bStats. Please consider keeping it enabled.
+# It has a negligible impact on performance and more users on stats keeps me more motivated to support this plugin!
+allowStats: true
+
+# Print debug messages to console. You will most likely never need this.
+enableDebug: false
+
+# Setting this to true will disable this plugin and remove any armored elytras it can find.
+# It will check player's inventories and their end chest upon login and any regular chest when it is opened.
+# This means it will take a while for all armored elytras to be removed from your server, but it doesn't take up 
+# a lot of resources, so you can just leave the plugin enabled and ignore it.
+# Please do not forget to MAKE A BACKUP before enabling this option!
+uninstallMode: false
+
+# Specify a language file to be used.
+languageFile: 'en_US'
+
+# Globally bypass permissions for wearing and/or crafting armored elytras.
+# Useful if permissions are unavailable.
+bypassWearPermissions: true
+bypassCraftPermissions: true

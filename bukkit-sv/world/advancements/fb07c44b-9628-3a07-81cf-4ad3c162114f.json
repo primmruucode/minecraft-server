@@ -459,15 +459,16 @@
       "minecraft:pillager": "2024-07-06 22:41:13 +0700",
       "minecraft:skeleton": "2024-06-23 17:44:01 +0700",
       "minecraft:elder_guardian": "2024-07-06 01:11:00 +0700",
-      "minecraft:guardian": "2024-07-02 00:32:17 +0700",
       "minecraft:phantom": "2024-07-01 23:46:37 +0700",
+      "minecraft:zombified_piglin": "2024-07-14 22:37:16 +0700",
+      "minecraft:shulker": "2024-06-30 02:47:23 +0700",
+      "minecraft:guardian": "2024-07-02 00:32:17 +0700",
       "minecraft:breeze": "2024-06-23 22:45:24 +0700",
       "minecraft:enderman": "2024-06-30 01:46:15 +0700",
       "minecraft:spider": "2024-06-23 18:31:21 +0700",
       "minecraft:zombie": "2024-06-23 17:26:42 +0700",
       "minecraft:creeper": "2024-06-24 21:18:19 +0700",
-      "minecraft:drowned": "2024-06-24 01:14:18 +0700",
-      "minecraft:shulker": "2024-06-30 02:47:23 +0700"
+      "minecraft:drowned": "2024-06-24 01:14:18 +0700"
     },
     "done": false
   },
@@ -1902,7 +1903,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-06-23 23:55:42 +0700",
-      "minecraft:soul_sand_valley": "2024-06-23 23:45:30 +0700"
+      "minecraft:soul_sand_valley": "2024-06-23 23:45:30 +0700",
+      "minecraft:nether_wastes": "2024-07-14 22:36:29 +0700",
+      "minecraft:basalt_deltas": "2024-07-14 22:36:09 +0700"
     },
     "done": false
   },

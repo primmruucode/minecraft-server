@@ -531,6 +531,7 @@
       "bread": "2024-06-22 03:34:23 +0700",
       "golden_apple": "2024-06-22 04:19:38 +0700",
       "cooked_chicken": "2024-06-22 22:08:02 +0700",
+      "cookie": "2024-07-11 20:28:58 +0700",
       "cooked_mutton": "2024-06-22 21:52:18 +0700",
       "cooked_beef": "2024-06-22 04:37:54 +0700",
       "chorus_fruit": "2024-06-30 02:02:59 +0700",
@@ -4993,6 +4994,42 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-07-06 22:16:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-07-11 20:20:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 20:31:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 20:31:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2024-07-11 20:31:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-07-11 20:31:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-11 20:31:20 +0700"
     },
     "done": true
   },

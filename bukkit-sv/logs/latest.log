@@ -1,98 +1,16 @@
-[00:00:12] [Server thread/WARN]: mu_________ moved wrongly!
-[00:01:04] [User Authenticator #14/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
-[00:01:06] [Server thread/INFO]: saintyosl joined the game
-[00:01:06] [Server thread/INFO]: saintyosl[/152.78.0.251:58887] logged in with entity id 153063 at ([world]933.9217519902148, 94.0, -1630.5566076976472)
-[00:12:47] [Server thread/INFO]: saintyosl lost connection: Disconnected
-[00:12:47] [Server thread/INFO]: saintyosl left the game
-[00:48:02] [Server thread/INFO]: KornZa lost connection: Disconnected
-[00:48:02] [Server thread/INFO]: KornZa left the game
-[00:49:35] [Server thread/INFO]: goodjob lost connection: Disconnected
-[00:49:35] [Server thread/INFO]: goodjob left the game
-[01:07:17] [Server thread/INFO]: mu_________ lost connection: Disconnected
-[01:07:17] [Server thread/INFO]: mu_________ left the game
-[01:13:06] [User Authenticator #15/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
-[01:13:07] [Server thread/INFO]: goodjob joined the game
-[01:13:07] [Server thread/INFO]: goodjob[/31.205.87.190:63847] logged in with entity id 176636 at ([world]1040.5, 63.0, -1593.5)
-[01:13:55] [Server thread/INFO]: goodjob lost connection: Disconnected
-[01:13:55] [Server thread/INFO]: goodjob left the game
-[01:16:01] [User Authenticator #16/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[01:16:02] [Server thread/INFO]: HoM joined the game
-[01:16:02] [Server thread/INFO]: HoM[/49.228.105.227:25517] logged in with entity id 178544 at ([world]921.594756088698, 94.0, -1628.8521979043878)
-[01:16:46] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[01:16:46] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[01:59:20] [User Authenticator #17/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
-[01:59:21] [Server thread/INFO]: goodjob joined the game
-[01:59:21] [Server thread/INFO]: goodjob[/31.205.87.190:54137] logged in with entity id 189489 at ([world]894.4692574346824, 81.0, -1803.0877777911278)
-[01:59:26] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[01:59:26] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[01:59:46] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[01:59:46] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[02:07:15] [Server thread/INFO]: goodjob lost connection: Disconnected
-[02:07:15] [Server thread/INFO]: goodjob left the game
-[02:17:16] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[02:17:16] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[02:18:25] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[02:18:25] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[02:30:40] [User Authenticator #18/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
-[02:30:42] [Server thread/INFO]: goodjob joined the game
-[02:30:42] [Server thread/INFO]: goodjob[/31.205.87.190:54564] logged in with entity id 197956 at ([world]1054.0048908719393, 63.0, -1600.2829055004472)
-[02:30:46] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[02:30:46] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[02:31:11] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[02:31:11] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[02:34:53] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[02:34:53] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[02:37:03] [Server thread/INFO]: HoM was slain by goodjob
-[02:40:46] [User Authenticator #19/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
-[02:40:48] [Server thread/INFO]: saintyosl joined the game
-[02:40:48] [Server thread/INFO]: saintyosl[/152.78.0.251:57607] logged in with entity id 202620 at ([world]927.4010506082158, 106.5, -1756.1829997884352)
-[02:41:11] [Server thread/INFO]: HoM lost connection: Disconnected
-[02:41:11] [Server thread/INFO]: HoM left the game
-[02:41:17] [User Authenticator #20/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[02:41:17] [Server thread/INFO]: HoM joined the game
-[02:41:17] [Server thread/INFO]: HoM[/49.228.105.227:12669] logged in with entity id 202966 at ([world]911.537920288118, 94.0, -1618.7486654845338)
-[02:45:48] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[02:45:48] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[02:46:46] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[02:46:46] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[02:47:18] [Server thread/INFO]: HoM lost connection: Disconnected
-[02:47:18] [Server thread/INFO]: HoM left the game
-[02:47:45] [User Authenticator #21/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[02:47:46] [Server thread/INFO]: HoM joined the game
-[02:47:46] [Server thread/INFO]: HoM[/49.228.105.227:13078] logged in with entity id 206423 at ([world]922.2072497462747, 94.0, -1621.9159514929124)
-[02:48:04] [Server thread/INFO]: HoM lost connection: Disconnected
-[02:48:04] [Server thread/INFO]: HoM left the game
-[02:52:56] [Server thread/INFO]: goodjob lost connection: Disconnected
-[02:52:56] [Server thread/INFO]: goodjob left the game
-[02:53:41] [User Authenticator #22/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[02:53:42] [Server thread/INFO]: HoM joined the game
-[02:53:42] [Server thread/INFO]: HoM[/49.228.105.227:13636] logged in with entity id 209813 at ([world]926.4018743537897, 94.0, -1602.81184943437)
-[02:53:52] [Server thread/WARN]: HoM moved wrongly!
-[02:54:07] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[02:54:07] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[02:54:23] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[02:54:23] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[03:12:27] [Server thread/INFO]: HoM has completed the challenge [Smithing with Style]
-[03:13:15] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[03:13:15] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[03:14:05] [Server thread/INFO]: HoM issued server command: /
-[03:14:11] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[03:14:11] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[03:14:14] [Server thread/INFO]: HoM lost connection: Disconnected
-[03:14:14] [Server thread/INFO]: HoM left the game
-[04:24:59] [Server thread/INFO]: saintyosl lost connection: Disconnected
-[04:24:59] [Server thread/INFO]: saintyosl left the game
-[04:25:02] [User Authenticator #23/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
-[04:25:03] [Server thread/INFO]: saintyosl joined the game
-[04:25:03] [Server thread/INFO]: saintyosl[/152.78.0.251:20315] logged in with entity id 232430 at ([world]931.2722899793217, 106.0, -1757.424356972148)
-[04:29:13] [Server thread/INFO]: saintyosl lost connection: Disconnected
-[04:29:13] [Server thread/INFO]: saintyosl left the game
-[04:29:14] [User Authenticator #24/INFO]: UUID of player saintyosl is 68b63c43-763c-3d23-9af5-834f5a1eb6a2
-[04:29:16] [Server thread/INFO]: saintyosl joined the game
-[04:29:16] [Server thread/INFO]: saintyosl[/152.78.0.251:20424] logged in with entity id 233886 at ([world]950.175551081378, 103.0, -1727.0777244000344)
-[05:02:30] [Server thread/INFO]: saintyosl lost connection: Disconnected
-[05:02:30] [Server thread/INFO]: saintyosl left the game
-[09:42:41] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:58:09] [User Authenticator #15/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[00:58:20] [Server thread/INFO]: rimmairuuz joined the game
+[00:58:20] [Server thread/INFO]: rimmairuuz[/110.169.31.62:62899] logged in with entity id 213151 at ([world]888.0847826694927, 73.0, -1826.9803062284657)
+[00:59:45] [Server thread/INFO]: rimmairuuz lost connection: Timed out
+[00:59:45] [Server thread/INFO]: rimmairuuz left the game
+[01:02:45] [User Authenticator #16/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[01:02:49] [Server thread/INFO]: goodjob joined the game
+[01:02:49] [Server thread/INFO]: goodjob[/31.205.87.190:54049] logged in with entity id 215568 at ([world]1042.8222518692232, 63.0, -1595.1369988582112)
+[01:06:53] [Server thread/INFO]: goodjob issued server command: /gamemode survival
+[01:06:53] [Server thread/INFO]: [goodjob: Set own game mode to Survival Mode]
+[01:06:54] [Server thread/INFO]: goodjob lost connection: Disconnected
+[01:06:54] [Server thread/INFO]: goodjob left the game
+[05:56:12] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
@@ -131,16 +49,16 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[12:13:25] [User Authenticator #25/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[12:13:26] [Server thread/INFO]: HoM joined the game
-[12:13:26] [Server thread/INFO]: HoM[/49.228.105.227:31133] logged in with entity id 241874 at ([world]925.9195685688011, 94.0, -1626.8626716861502)
-[12:13:48] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[12:13:48] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[12:21:16] [Server thread/INFO]: HoM issued server command: /gamemode survival
-[12:21:16] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
-[12:21:42] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[12:21:42] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[12:32:49] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[06:25:12] [User Authenticator #17/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[06:25:16] [Server thread/INFO]: goodjob joined the game
+[06:25:16] [Server thread/INFO]: goodjob[/31.205.87.190:62002] logged in with entity id 222404 at ([world]1035.8145100923366, 63.9375, -1797.372108057904)
+[06:25:30] [Server thread/INFO]: goodjob issued server command: /gamemode creative
+[06:25:30] [Server thread/INFO]: [goodjob: Set own game mode to Creative Mode]
+[06:30:07] [Server thread/INFO]: goodjob issued server command: /gamemode survival
+[06:30:07] [Server thread/INFO]: [goodjob: Set own game mode to Survival Mode]
+[06:30:08] [Server thread/INFO]: goodjob lost connection: Disconnected
+[06:30:08] [Server thread/INFO]: goodjob left the game
+[15:11:53] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
@@ -168,44 +86,53 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:447) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:454) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[12:34:31] [Server thread/INFO]: HoM issued server command: /gamerule mobGriefing false
-[12:34:31] [Server thread/INFO]: [HoM: Gamerule mobGriefing is now set to: false]
-[13:21:41] [Server thread/INFO]: HoM issued server command: /gamemode spectator
-[13:21:41] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
-[13:26:02] [Server thread/INFO]: HoM issued server command: /gamemode creative
-[13:26:02] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
-[14:03:21] [Server thread/INFO]: HoM issued server command: /weather clear
-[14:03:21] [Server thread/INFO]: [HoM: Set the weather to clear]
-[14:07:37] [Server thread/INFO]: HoM lost connection: Disconnected
-[14:07:37] [Server thread/INFO]: HoM left the game
+[18:30:26] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
