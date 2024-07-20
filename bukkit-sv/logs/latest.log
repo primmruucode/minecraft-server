@@ -52,3 +52,216 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [14:08:11] [Server thread/INFO]: mu_________ was doomed to fall
 [14:18:36] [Server thread/INFO]: mu_________ lost connection: Disconnected
 [14:18:36] [Server thread/INFO]: mu_________ left the game
+[22:38:19] [User Authenticator #20/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[22:38:26] [Server thread/INFO]: HoM joined the game
+[22:38:26] [Server thread/INFO]: HoM[/184.22.34.38:5053] logged in with entity id 284337 at ([world]914.0935268913172, 94.0, -1608.8718688220126)
+[22:41:39] [Server thread/INFO]: HoM lost connection: Disconnected
+[22:41:40] [Server thread/INFO]: HoM left the game
+[22:54:30] [User Authenticator #21/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[22:54:34] [Server thread/INFO]: HoM joined the game
+[22:54:34] [Server thread/INFO]: HoM[/184.22.34.38:6798] logged in with entity id 288730 at ([world]781.5872616620596, 65.0, -1938.0236895260475)
+[22:56:47] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:56:47] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:59:12] [Server thread/INFO]: HoM issued server command: /locate structure minecraft:stronghold
+[22:59:19] [Server thread/INFO]: HoM issued server command: /locate structure minecraft:stronghold
+[22:59:19] [Server thread/INFO]: Locating element minecraft:stronghold took 22 ms
+[22:59:26] [Server thread/INFO]: HoM issued server command: /locate structure minecraft:stronghold
+[22:59:26] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[23:05:41] [Server thread/INFO]: HoM lost connection: Disconnected
+[23:05:41] [Server thread/INFO]: HoM left the game
+[23:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[23:06:49] [User Authenticator #22/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[23:06:53] [Server thread/INFO]: HoM joined the game
+[23:06:53] [Server thread/INFO]: HoM[/184.22.34.38:5525] logged in with entity id 303858 at ([world]365.7176289074143, -36.0, -1605.5137495733445)
+[23:07:48] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[23:07:48] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[23:07:57] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[23:07:57] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[23:09:25] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:09:25] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[23:09:53] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[23:09:53] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:13:02] [User Authenticator #23/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[23:13:03] [User Authenticator #24/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[23:13:04] [Server thread/INFO]: mu_________ joined the game
+[23:13:04] [Server thread/INFO]: mu_________[/58.8.168.71:50811] logged in with entity id 312490 at ([world]948.7202729269369, 119.0, -1652.7060664337196)
+[23:13:06] [Server thread/INFO]: goodjob joined the game
+[23:13:06] [Server thread/INFO]: goodjob[/31.205.87.190:51862] logged in with entity id 312494 at ([world]1038.2782995362077, 62.9375, -1784.3849207453366)
+[23:13:14] [Async Chat Thread - #2/INFO]: [Not Secure] <mu_________> kyu
+[23:13:16] [Async Chat Thread - #1/INFO]: [Not Secure] <mu_________> kuy
+[23:13:21] [Server thread/INFO]: HoM lost connection: Disconnected
+[23:13:21] [Server thread/INFO]: HoM left the game
+[23:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[23:16:44] [Server thread/INFO]: goodjob lost connection: Disconnected
+[23:16:44] [Server thread/INFO]: goodjob left the game
+[23:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[23:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[23:43:04] [Server thread/INFO]: mu_________ fell out of the world
+[23:43:13] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[23:43:13] [Server thread/INFO]: mu_________ left the game
+[23:43:45] [User Authenticator #25/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[23:43:48] [Server thread/INFO]: HoM joined the game
+[23:43:48] [Server thread/INFO]: HoM[/184.22.34.38:5845] logged in with entity id 337121 at ([world]1037.047343214124, 63.9375, -1801.1533523966452)
+[23:43:53] [User Authenticator #26/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[23:43:55] [Server thread/INFO]: rimmairuuz joined the game
+[23:43:55] [Server thread/INFO]: rimmairuuz[/110.169.230.29:58470] logged in with entity id 338589 at ([world]912.8611246029383, 106.0, -1749.5587509256693)
+[23:44:13] [Server thread/INFO]: rimmairuuz issued server command: /locatechest
+[23:44:39] [User Authenticator #27/INFO]: UUID of player goodjob is b9b46f0b-d665-3c8a-9d9e-32b32c9e2a3e
+[23:44:42] [Server thread/INFO]: goodjob joined the game
+[23:44:42] [Server thread/INFO]: goodjob[/31.205.87.190:51912] logged in with entity id 339661 at ([world]1047.8799566799537, 63.0, -1589.3325541113597)
+[23:44:44] [User Authenticator #28/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[23:44:46] [Server thread/INFO]: mu_________ joined the game
+[23:44:46] [Server thread/INFO]: mu_________[/58.8.168.71:51757] logged in with entity id 339736 at ([world]933.1409618216582, 121.5, -1638.3757029820197)
+[23:44:50] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[23:44:50] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[23:44:55] [Server thread/INFO]: mu_________ issued server command: /loc
+[23:44:56] [Server thread/INFO]: mu_________ issued server command: /
+[23:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[23:45:01] [Server thread/INFO]: mu_________ issued server command: /locatechest
+[23:46:55] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[23:46:55] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[23:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[23:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3668ms or 73 ticks behind
+[23:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[23:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
+[23:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[23:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[23:48:39] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:48:39] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:48:41] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:48:41] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:48:43] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:48:43] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:48:45] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:48:45] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5855ms or 117 ticks behind
+[23:48:52] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:48:52] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:48:55] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:48:55] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:48:57] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:48:57] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:48:59] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:48:59] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:49:05] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:respiration 3
+[23:49:05] [Server thread/INFO]: [HoM: Applied enchantment Respiration III to HoM's item]
+[23:49:07] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:respiration 3
+[23:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4745ms or 94 ticks behind
+[23:49:21] [Server thread/INFO]: rimmairuuz has made the advancement [The End?]
+[23:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
+[23:49:55] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:protection 4
+[23:49:55] [Server thread/INFO]: [HoM: Applied enchantment Protection IV to HoM's item]
+[23:49:57] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:protection 4
+[23:49:57] [Server thread/INFO]: [HoM: Applied enchantment Protection IV to HoM's item]
+[23:49:59] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:protection 4
+[23:49:59] [Server thread/INFO]: [HoM: Applied enchantment Protection IV to HoM's item]
+[23:50:01] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:protection 4
+[23:50:01] [Server thread/INFO]: [HoM: Applied enchantment Protection IV to HoM's item]
+[23:50:14] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:thorns 3
+[23:50:14] [Server thread/INFO]: [HoM: Applied enchantment Thorns III to HoM's item]
+[23:50:25] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:swift_sneak 3
+[23:50:25] [Server thread/INFO]: [HoM: Applied enchantment Swift Sneak III to HoM's item]
+[23:50:31] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:depth_strider 3
+[23:50:31] [Server thread/INFO]: [HoM: Applied enchantment Depth Strider III to HoM's item]
+[23:50:39] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:aqua_affinity 1
+[23:50:39] [Server thread/INFO]: [HoM: Applied enchantment Aqua Affinity to HoM's item]
+[23:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[23:50:44] [Server thread/INFO]: mu_________ fell from a high place
+[23:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[23:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[23:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3498ms or 69 ticks behind
+[23:51:41] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:51:41] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:51:44] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:51:44] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:51:46] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:51:46] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:51:47] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:51:47] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:51:49] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:51:49] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[23:51:55] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4+
+[23:51:57] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4
+[23:51:57] [Server thread/INFO]: [HoM: Applied enchantment Efficiency IV to HoM's item]
+[23:51:59] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4
+[23:51:59] [Server thread/INFO]: [HoM: Applied enchantment Efficiency IV to HoM's item]
+[23:52:01] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4
+[23:52:01] [Server thread/INFO]: [HoM: Applied enchantment Efficiency IV to HoM's item]
+[23:52:03] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4
+[23:52:03] [Server thread/INFO]: [HoM: Applied enchantment Efficiency IV to HoM's item]
+[23:52:04] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:efficiency 4
+[23:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[23:52:13] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:sharpness 5
+[23:52:13] [Server thread/INFO]: [HoM: Applied enchantment Sharpness V to HoM's item]
+[23:52:24] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:52:24] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:52:27] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:52:27] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:52:29] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:52:29] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:52:31] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:52:31] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:52:33] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:52:33] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8778ms or 175 ticks behind
+[23:52:47] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:looting 3
+[23:52:47] [Server thread/INFO]: [HoM: Applied enchantment Looting III to HoM's item]
+[23:52:53] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:fire_aspect 2
+[23:52:53] [Server thread/INFO]: [HoM: Applied enchantment Fire Aspect II to HoM's item]
+[23:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7808ms or 156 ticks behind
+[23:53:01] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:fortune 3
+[23:53:01] [Server thread/INFO]: [HoM: Applied enchantment Fortune III to HoM's item]
+[23:53:16] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:53:16] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7965ms or 159 ticks behind
+[23:53:21] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:53:21] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:53:33] [Server thread/INFO]: HoM issued server command: /plugins
+[23:53:41] [Server thread/INFO]: HoM issued server command: /armoredelytra HoM
+[23:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
+[23:53:47] [Server thread/INFO]: HoM issued server command: /armoredelytra HoM netherite
+[23:53:51] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:unbreaking 3
+[23:53:51] [Server thread/INFO]: [HoM: Applied enchantment Unbreaking III to HoM's item]
+[23:53:54] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:mending 1
+[23:53:54] [Server thread/INFO]: [HoM: Applied enchantment Mending to HoM's item]
+[23:54:02] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:thorns 3
+[23:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6408ms or 128 ticks behind
+[23:54:19] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:protection 4
+[23:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4577ms or 91 ticks behind
+[23:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7182ms or 143 ticks behind
+[23:54:54] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:feather_falling 4
+[23:54:54] [Server thread/INFO]: [HoM: Applied enchantment Feather Falling IV to HoM's item]
+[23:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6960ms or 139 ticks behind
+[23:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7132ms or 142 ticks behind
+[23:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7200ms or 144 ticks behind
+[23:55:57] [Server thread/INFO]: mu_________ issued server command: /locatechest
+[23:56:00] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:thorns 3
+[23:56:00] [Server thread/INFO]: [HoM: Applied enchantment Thorns III to HoM's item]
+[23:56:02] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:thorns 3
+[23:56:02] [Server thread/INFO]: [HoM: Applied enchantment Thorns III to HoM's item]
+[23:56:04] [Server thread/INFO]: HoM issued server command: /enchant HoM minecraft:thorns 3
+[23:56:04] [Server thread/INFO]: [HoM: Applied enchantment Thorns III to HoM's item]
+[23:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
+[23:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[23:56:33] [Server thread/INFO]: HoM issued server command: /backpack give HoM diamond
+[23:56:36] [Server thread/INFO]: HoM issued server command: /backpack give HoM
+[23:56:43] [Server thread/INFO]: HoM issued server command: /backpack give Diamond
+[23:56:50] [Server thread/INFO]: mu_________ fell from a high place
+[23:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3601ms or 72 ticks behind
+[23:56:56] [Server thread/INFO]: HoM issued server command: /plugins
+[23:57:04] [Server thread/INFO]: HoM issued server command: /help backpack
+[23:57:22] [Server thread/INFO]: HoM issued server command: /backpack give Diamond
+[23:57:30] [Server thread/INFO]: mu_________ issued server command: /locatechest
+[23:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[23:58:15] [Server thread/INFO]: HoM issued server command: /backpack give Diamond backpacks
+[23:58:20] [Server thread/INFO]: HoM issued server command: /backpack give Diamond HoM
+[23:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
+[23:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
+[23:58:49] [Server thread/INFO]: rimmairuuz issued server command: /tp mu_________ rimmairuuz
+[23:58:49] [Server thread/INFO]: [rimmairuuz: Teleported mu_________ to rimmairuuz]
+[23:58:59] [Server thread/INFO]: mu_________ issued server command: /locatechest
+[23:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[23:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
+[23:59:36] [Async Chat Thread - #4/INFO]: [Not Secure] <mu_________> 876 72 -1763
+[23:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind
