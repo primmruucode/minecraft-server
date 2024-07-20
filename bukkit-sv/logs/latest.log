@@ -158,3 +158,63 @@
 [00:51:30] [Server thread/INFO]: mu_________ has made the advancement [Hidden in the Depths]
 [00:59:06] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
 [00:59:06] [Server thread/INFO]: rimmairuuz left the game
+[01:02:52] [User Authenticator #31/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[01:02:54] [Server thread/INFO]: rimmairuuz joined the game
+[01:02:54] [Server thread/INFO]: rimmairuuz[/110.169.230.29:63349] logged in with entity id 389224 at ([world_nether]60.75011869583561, 14.0, -607.5294409317472)
+[01:03:42] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[01:03:42] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[01:08:17] [Async Chat Thread - #6/INFO]: [Not Secure] <HoM> ./
+[01:08:22] [Async Chat Thread - #5/INFO]: [Not Secure] <HoM> 48
+[01:08:59] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[01:08:59] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[01:10:27] [Async Chat Thread - #8/INFO]: [Not Secure] <HoM> 130 -222
+[01:10:31] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[01:10:31] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[01:12:07] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[01:12:07] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[01:12:21] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[01:12:21] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[01:12:55] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[01:12:55] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[01:19:03] [Craft Scheduler Thread - 129/WARN]: [BackpackPlus] Plugin BackpackPlus v1.4.1 generated an exception while executing task 22999
+java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.effects" is null
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftMetaFirework.applyToItem(CraftMetaFirework.java:188) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftItemStack.setItemMeta(CraftItemStack.java:325) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftItemStack.asNMSCopy(CraftItemStack.java:42) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftInventory.setItem(CraftInventory.java:101) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at pl.ziomalu.backpackplus.backpackcontent.BackpackGUI.lambda$loadFromJson$2(BackpackGUI.java:109) ~[?:?]
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:35:09] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[01:35:09] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[01:36:25] [Async Chat Thread - #10/INFO]: [Not Secure] <mu_________> t
+[01:37:17] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[01:37:17] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[01:39:49] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[01:39:49] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[02:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[02:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[02:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
+[02:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[02:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[02:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[02:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[02:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[02:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
+[02:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
+[02:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[02:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[02:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
+[02:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[02:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[02:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[02:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[02:27:44] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[02:27:44] [Server thread/INFO]: mu_________ left the game
+[02:58:40] [Server thread/INFO]: HoM lost connection: Disconnected
+[02:58:40] [Server thread/INFO]: HoM left the game
