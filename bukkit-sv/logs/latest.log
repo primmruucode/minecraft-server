@@ -49,3 +49,6 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:08:11] [Server thread/INFO]: mu_________ was doomed to fall
+[14:18:36] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[14:18:36] [Server thread/INFO]: mu_________ left the game
