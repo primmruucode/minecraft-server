@@ -156,3 +156,121 @@
 [02:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
 [02:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
 [02:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[03:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[03:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[03:04:06] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:04:06] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[03:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[03:05:46] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:05:46] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:07:43] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[03:07:43] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:08:25] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[03:08:25] [Server thread/INFO]: mu_________ left the game
+[03:08:52] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[03:08:52] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[03:20:17] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:20:17] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:22:37] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:22:37] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:24:11] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:24:11] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:25:17] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:25:17] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:26:27] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:crimson_stem 2
+[03:26:27] [Server thread/INFO]: [rimmairuuz: Gave 2 [Crimson Stem] to rimmairuuz]
+[03:27:17] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:crimson_stem 40
+[03:27:17] [Server thread/INFO]: [rimmairuuz: Gave 40 [Crimson Stem] to rimmairuuz]
+[03:29:14] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[03:29:14] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[03:30:44] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[03:30:44] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[03:31:33] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[03:31:33] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:35:24] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[03:35:24] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[03:35:52] [Server thread/INFO]: rimmairuuz issued server command: /gamemode spectator
+[03:35:52] [Server thread/INFO]: [rimmairuuz: Set own game mode to Spectator Mode]
+[03:36:09] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:36:09] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:38:29] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:38:29] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:40:11] [Server thread/INFO]: Villager EntityVillager['Villager'/643888, l='ServerLevel[world]', x=791.08, y=88.75, z=-1829.93] died, message: 'Villager was slain by Zombie'
+[03:40:26] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to Chest v2.0-SNAPSHOT
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:930) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.EntityPlayer.a(EntityPlayer.java:916) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.EntityLiving.a(EntityLiving.java:1518) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.player.EntityHuman.a(EntityHuman.java:970) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.EntityPlayer.a(EntityPlayer.java:1071) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.EntityLiving.a(EntityLiving.java:1979) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.player.EntityHuman.a(EntityHuman.java:1671) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.block.Block.a(Block.java:398) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.Entity.a(Entity.java:1495) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.entity.EntityLiving.a(EntityLiving.java:408) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.level.EntityPlayer.a(EntityPlayer.java:1479) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1308) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.protocol.game.PacketPlayInFlying.a(SourceFile:142) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.protocol.game.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 27 out of bounds for length 27
+	at java.base/java.util.Arrays$ArrayList.set(Arrays.java:4271) ~[?:?]
+	at net.minecraft.core.NonNullList.set(SourceFile:54) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.block.entity.TileEntityContainer.a(TileEntityContainer.java:133) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.world.level.block.entity.TileEntityLootable.a(SourceFile:76) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftInventory.setItem(CraftInventory.java:101) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at me.purim.plugin.chest.ChestPlugin.onPlayerDeath(ChestPlugin.java:92) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 31 more
+[03:40:26] [Server thread/INFO]: rimmairuuz fell from a high place
+[03:40:37] [Server thread/INFO]: rimmairuuz fell from a high place
+[03:40:51] [Server thread/INFO]: HoM issued server command: /tp rimmairuuz HoM
+[03:40:51] [Server thread/INFO]: [HoM: Teleported rimmairuuz to HoM]
+[03:42:06] [Server thread/INFO]: rimmairuuz issued server command: /locatechest
+[03:42:24] [Server thread/INFO]: rimmairuuz issued server command: /locatechest
+[03:42:41] [Server thread/WARN]: rimmairuuz moved wrongly!
+[03:43:14] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:43:14] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:44:43] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:44:43] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:45:46] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:45:46] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:51:26] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:51:26] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:52:38] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[03:52:38] [Server thread/INFO]: rimmairuuz left the game
+[03:53:07] [User Authenticator #42/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[03:53:09] [Server thread/INFO]: rimmairuuz joined the game
+[03:53:09] [Server thread/INFO]: rimmairuuz[/58.8.169.89:64132] logged in with entity id 715757 at ([world]906.5330184828405, 108.0, -1765.5514582855765)
+[03:53:28] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[03:53:28] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[03:54:03] [Server thread/INFO]: rimmairuuz issued server command: /gamemode spectator
+[03:54:03] [Server thread/INFO]: [rimmairuuz: Set own game mode to Spectator Mode]
+[03:58:09] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:58:09] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[03:58:10] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[03:58:10] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:59:19] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[03:59:19] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[03:59:26] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[03:59:26] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
