@@ -314,3 +314,8 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:48:48] [User Authenticator #34/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[20:48:52] [Server thread/INFO]: HoM joined the game
+[20:48:52] [Server thread/INFO]: HoM[/184.22.34.38:13866] logged in with entity id 513447 at ([world]899.3000000119209, 200.0, -1826.4445641421835)
+[20:49:16] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[20:49:16] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
