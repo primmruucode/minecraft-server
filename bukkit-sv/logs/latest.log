@@ -274,3 +274,7 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 27 out of bounds for 
 [03:59:19] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
 [03:59:26] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
 [03:59:26] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[04:03:20] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[04:03:20] [Server thread/INFO]: rimmairuuz left the game
+[04:03:29] [Server thread/INFO]: HoM lost connection: Disconnected
+[04:03:29] [Server thread/INFO]: HoM left the game
