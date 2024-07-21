@@ -268,3 +268,10 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [06:56:59] [Server thread/INFO]: [goodjob: Teleported goodjob to rimmairuuz]
 [06:57:44] [Server thread/INFO]: goodjob lost connection: Disconnected
 [06:57:44] [Server thread/INFO]: goodjob left the game
+[11:49:02] [User Authenticator #33/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[11:49:05] [Server thread/INFO]: mu_________ joined the game
+[11:49:05] [Server thread/INFO]: mu_________[/184.22.101.178:4028] logged in with entity id 504904 at ([world]941.9287095368447, 119.0, -1636.1283985473722)
+[12:00:50] [Server thread/INFO]: mu_________ lost connection: Disconnected
+[12:00:50] [Server thread/INFO]: mu_________ left the game
+[12:33:59] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
+[12:33:59] [Server thread/INFO]: rimmairuuz left the game
