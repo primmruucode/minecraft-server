@@ -382,7 +382,8 @@
       "minecraft:silverfish": "2024-07-02 01:48:19 +0700",
       "minecraft:spider": "2024-07-01 00:20:13 +0700",
       "minecraft:zombie": "2024-07-01 03:16:25 +0700",
-      "minecraft:creeper": "2024-07-02 04:18:17 +0700"
+      "minecraft:creeper": "2024-07-02 04:18:17 +0700",
+      "minecraft:wither": "2024-07-22 01:18:33 +0700"
     },
     "done": false
   },
@@ -3391,6 +3392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-07-21 23:50:37 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-07-22 00:05:33 +0700"
@@ -3403,15 +3410,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-07-21 23:50:37 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-07-22 00:05:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-22 01:17:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-07-22 01:18:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-07-22 01:32:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-22 01:50:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-22 01:50:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-07-22 02:02:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-22 02:21:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-07-22 01:56:04 +0700"
     },
     "done": true
   },
