@@ -278,3 +278,4 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 27 out of bounds for 
 [04:03:20] [Server thread/INFO]: rimmairuuz left the game
 [04:03:29] [Server thread/INFO]: HoM lost connection: Disconnected
 [04:03:29] [Server thread/INFO]: HoM left the game
+[12:26:54] [ForkJoinPool.commonPool-worker-29/INFO]: [ArmoredElytra] A new update is available: 3.2
