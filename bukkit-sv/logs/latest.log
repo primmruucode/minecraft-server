@@ -1,1 +1,7 @@
 [00:26:54] [ForkJoinPool.commonPool-worker-30/INFO]: [ArmoredElytra] A new update is available: 3.2
+[02:08:10] [User Authenticator #44/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[02:08:13] [Server thread/INFO]: HoM joined the game
+[02:08:13] [Server thread/INFO]: HoM[/49.228.96.202:1160] logged in with entity id 722546 at ([world]882.2896367549682, 82.0, -1783.5559832879758)
+[02:08:29] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[02:08:29] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[02:15:44] [Server thread/INFO]: Villager EntityVillager['Villager'/722622, l='ServerLevel[world]', x=800.68, y=92.00, z=-1803.82] died, message: 'Villager was slain by Zombie'
