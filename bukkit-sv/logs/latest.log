@@ -5,3 +5,69 @@
 [02:08:29] [Server thread/INFO]: HoM issued server command: /gamemode creative
 [02:08:29] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
 [02:15:44] [Server thread/INFO]: Villager EntityVillager['Villager'/722622, l='ServerLevel[world]', x=800.68, y=92.00, z=-1803.82] died, message: 'Villager was slain by Zombie'
+[03:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[03:33:45] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[03:33:45] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[03:33:52] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[03:33:52] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[03:55:25] [Server thread/INFO]: HoM issued server command: /weather clear
+[03:55:25] [Server thread/INFO]: [HoM: Set the weather to clear]
+[03:56:38] [Server thread/INFO]: HoM issued server command: /time set day
+[03:56:38] [Server thread/INFO]: [HoM: Set the time to 1000]
+[03:57:18] [Server thread/INFO]: HoM issued server command: /time set midnight
+[03:57:18] [Server thread/INFO]: [HoM: Set the time to 18000]
+[04:01:44] [Server thread/INFO]: HoM issued server command: /time set day
+[04:01:44] [Server thread/INFO]: [HoM: Set the time to 1000]
+[04:07:55] [Server thread/INFO]: HoM lost connection: Timed out
+[04:07:55] [Server thread/INFO]: HoM left the game.
+[04:07:55] [Server thread/WARN]: handleDisconnection() called twice
+[04:08:05] [User Authenticator #45/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[04:08:08] [Server thread/INFO]: HoM joined the game
+[04:08:08] [Server thread/INFO]: HoM[/49.228.96.202:11556] logged in with entity id 770739 at ([world]912.6853090135452, 109.5, -1768.6585997265954)
+[04:13:21] [Server thread/INFO]: HoM issued server command: /time set day
+[04:13:21] [Server thread/INFO]: [HoM: Set the time to 1000]
+[04:14:48] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[04:14:48] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[04:15:38] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[04:15:38] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[04:20:16] [Server thread/INFO]: HoM lost connection: Disconnected
+[04:20:16] [Server thread/INFO]: HoM left the game
+[04:30:55] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
