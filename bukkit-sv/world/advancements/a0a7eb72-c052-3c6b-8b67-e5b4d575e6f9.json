@@ -5987,78 +5987,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:40:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:41:45 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:33:37 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2024-07-23 23:33:24 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:41:44 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:41:45 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:40:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2024-07-23 23:40:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2024-07-23 23:39:34 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:39:34 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:33:24 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2024-07-23 23:41:45 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2024-07-23 23:12:22 +0700"
@@ -6071,15 +5999,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-07-23 23:12:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2024-07-23 23:33:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2024-07-23 23:33:24 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
-      "has_needed_dye": "2024-07-23 23:39:34 +0700"
+      "has_needed_dye": "2024-07-23 23:33:24 +0700"
     },
     "done": true
   },
@@ -6089,27 +6029,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
+  "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
-      "has_yellow_wool": "2024-07-23 23:12:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:39:34 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:41:44 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-07-23 23:41:44 +0700"
+      "has_needed_dye": "2024-07-23 23:33:37 +0700"
     },
     "done": true
   },
@@ -6131,15 +6053,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_candle": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_gray_dye": "2024-07-23 23:41:44 +0700"
+      "has_yellow_dye": "2024-07-23 23:39:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:39:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:39:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:39:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:40:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:40:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-07-23 23:40:03 +0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2024-07-23 23:40:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:41:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:41:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:41:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-07-23 23:41:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-23 23:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-07-23 23:41:45 +0700"
     },
     "done": true
   },
