@@ -111,3 +111,35 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [12:26:57] [ForkJoinPool.commonPool-worker-31/INFO]: [ArmoredElytra] A new update is available: 3.2
+[22:08:15] [User Authenticator #46/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[22:08:19] [Server thread/INFO]: HoM joined the game
+[22:08:19] [Server thread/INFO]: HoM[/49.228.96.202:11508] logged in with entity id 777759 at ([world]893.324994472542, 115.0, -1843.2029733856425)
+[22:22:43] [Server thread/INFO]: HoM issued server command: /weather clear
+[22:22:43] [Server thread/INFO]: [HoM: Set the weather to clear]
+[22:22:58] [Server thread/INFO]: HoM issued server command: /time set day
+[22:22:58] [Server thread/INFO]: [HoM: Set the time to 1000]
+[23:47:36] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[23:47:36] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:48:20] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[23:48:20] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[23:48:39] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[23:48:39] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[23:48:46] [User Authenticator #47/INFO]: UUID of player mu_________ is ebcea4cc-7434-373d-b4bd-8b0321da944b
+[23:48:49] [Server thread/INFO]: mu_________ joined the game
+[23:48:49] [Server thread/INFO]: mu_________[/184.22.101.178:55760] logged in with entity id 808829 at ([world]893.7862928882461, 115.0, -1834.999634617533)
+[23:54:23] [Craft Scheduler Thread - 189/WARN]: [BackpackPlus] Plugin BackpackPlus v1.4.1 generated an exception while executing task 49857
+java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.effects" is null
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftMetaFirework.applyToItem(CraftMetaFirework.java:188) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftItemStack.setItemMeta(CraftItemStack.java:325) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftItemStack.asNMSCopy(CraftItemStack.java:42) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.inventory.CraftInventory.setItem(CraftInventory.java:101) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at pl.ziomalu.backpackplus.backpackcontent.BackpackGUI.lambda$loadFromJson$2(BackpackGUI.java:109) ~[?:?]
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:57:25] [User Authenticator #48/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[23:57:29] [Server thread/INFO]: rimmairuuz joined the game
+[23:57:29] [Server thread/INFO]: rimmairuuz[/124.120.89.143:49980] logged in with entity id 814327 at ([world]841.7704099803124, 123.5, -1696.3768271909994)
+[23:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind

@@ -144,6 +144,7 @@
       "minecraft:piglin_brute": "2024-07-10 13:26:41 +0700",
       "minecraft:creeper": "2024-06-30 03:59:10 +0700",
       "minecraft:wither": "2024-07-22 01:19:37 +0700",
+      "minecraft:phantom": "2024-07-23 23:58:22 +0700",
       "minecraft:zombified_piglin": "2024-06-29 15:12:24 +0700",
       "minecraft:witch": "2024-07-06 14:00:06 +0700",
       "minecraft:wither_skeleton": "2024-07-10 13:40:00 +0700",
@@ -3884,18 +3885,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2024-07-22 01:23:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2024-07-21 23:50:59 +0700"
@@ -3908,27 +3897,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
+      "has_minecart": "2024-07-21 23:50:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-07-21 23:50:59 +0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2024-07-22 01:03:26 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-07-21 23:50:59 +0700"
     },
     "done": true
   },
@@ -3944,15 +3927,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2024-07-22 01:23:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-07-22 01:34:10 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_minecart": "2024-07-21 23:50:59 +0700"
+      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-07-22 01:34:10 +0700"
     },
     "done": true
   },
