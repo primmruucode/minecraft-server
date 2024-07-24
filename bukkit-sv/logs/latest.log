@@ -437,3 +437,77 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [22:06:34] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
 [22:10:31] [Server thread/INFO]: Villager EntityVillager['Villager'/961148, l='ServerLevel[world]', x=802.51, y=71.06, z=-1903.50] died, message: 'Villager was slain by Zombie'
 [22:59:52] [Server thread/INFO]: HoM issued server command: //copy
+[23:00:14] [Server thread/INFO]: HoM issued server command: //copy
+[23:00:43] [Server thread/INFO]: HoM issued server command: //paste
+[23:02:12] [Server thread/INFO]: HoM issued server command: //cut
+[23:08:39] [Server thread/INFO]: HoM issued server command: //copy
+[23:09:02] [Server thread/INFO]: HoM issued server command: //copy
+[23:09:28] [Server thread/INFO]: HoM issued server command: //paste
+[23:09:38] [Server thread/INFO]: HoM issued server command: //undo
+[23:09:43] [Server thread/INFO]: HoM issued server command: //rotate 90 0 0
+[23:09:50] [Server thread/INFO]: HoM issued server command: //paste
+[23:11:19] [Server thread/INFO]: HoM issued server command: //copy
+[23:11:34] [Server thread/INFO]: HoM issued server command: //rotate 180 0 0
+[23:11:37] [Server thread/INFO]: HoM issued server command: //paste
+[23:11:59] [Server thread/INFO]: HoM issued server command: //undo
+[23:12:33] [Server thread/INFO]: HoM issued server command: //rotate 275 0 0
+[23:12:49] [Server thread/INFO]: HoM issued server command: //rotate 270 0 0
+[23:13:06] [Server thread/INFO]: HoM issued server command: //paste
+[23:13:12] [Server thread/INFO]: HoM issued server command: //undo
+[23:13:17] [Server thread/INFO]: HoM issued server command: //rotate 90
+[23:13:24] [Server thread/INFO]: HoM issued server command: //paste
+[23:13:38] [Server thread/INFO]: HoM issued server command: //undo
+[23:14:03] [Server thread/INFO]: HoM issued server command: //copy
+[23:14:15] [Server thread/INFO]: HoM issued server command: //rotate 90
+[23:14:19] [Server thread/INFO]: HoM issued server command: //paste
+[23:14:28] [Server thread/INFO]: HoM issued server command: //undo
+[23:14:34] [Server thread/INFO]: HoM issued server command: //paste
+[23:15:33] [Server thread/INFO]: HoM issued server command: //copy
+[23:15:45] [Server thread/INFO]: HoM issued server command: //paste
+[23:15:49] [Server thread/INFO]: HoM issued server command: //undo
+[23:15:53] [Server thread/INFO]: HoM issued server command: //rotate 180
+[23:15:56] [Server thread/INFO]: HoM issued server command: //paste
+[23:16:05] [Server thread/INFO]: HoM issued server command: //undo
+[23:16:10] [Server thread/INFO]: HoM issued server command: //paste
+[23:17:48] [Server thread/INFO]: HoM issued server command: //copy
+[23:18:03] [Server thread/INFO]: HoM issued server command: //paste
+[23:18:09] [Server thread/INFO]: HoM issued server command: //undo
+[23:18:14] [Server thread/INFO]: HoM issued server command: //paste
+[23:18:20] [Server thread/INFO]: HoM issued server command: //undo
+[23:18:27] [Server thread/INFO]: HoM issued server command: //paste
+[23:19:03] [Server thread/INFO]: HoM issued server command: //cop
+[23:19:08] [Server thread/INFO]: HoM issued server command: //copy
+[23:19:40] [Server thread/INFO]: HoM issued server command: //paste
+[23:19:48] [Server thread/INFO]: HoM issued server command: //undo
+[23:19:56] [Server thread/INFO]: HoM issued server command: //copy
+[23:20:06] [Server thread/INFO]: HoM issued server command: //paste
+[23:20:11] [Server thread/INFO]: HoM issued server command: //undo
+[23:20:18] [Server thread/INFO]: HoM issued server command: //rotate 90 0 0
+[23:20:27] [Server thread/INFO]: HoM issued server command: //paste
+[23:20:36] [Server thread/INFO]: HoM issued server command: //undo
+[23:20:40] [Server thread/INFO]: HoM issued server command: //paste
+[23:21:41] [Server thread/INFO]: HoM issued server command: //copy
+[23:21:47] [Server thread/INFO]: HoM issued server command: //paste
+[23:25:05] [User Authenticator #56/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[23:25:07] [Server thread/INFO]: rimmairuuz joined the game
+[23:25:07] [Server thread/INFO]: rimmairuuz[/124.120.89.143:60786] logged in with entity id 1073771 at ([world]1020.9707673811841, 98.5, -1978.0539298051108)
+[23:25:41] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[23:25:41] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[23:32:48] [Server thread/INFO]: HoM issued server command: //copy
+[23:32:59] [Server thread/INFO]: HoM issued server command: //rotate 45
+[23:33:02] [Server thread/INFO]: HoM issued server command: //paste
+[23:35:52] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:tropical_fish
+[23:35:52] [Server thread/INFO]: [rimmairuuz: Gave 1 [Tropical Fish] to rimmairuuz]
+[23:39:17] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:salmon
+[23:39:17] [Server thread/INFO]: [rimmairuuz: Gave 1 [Raw Salmon] to rimmairuuz]
+[23:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[23:41:07] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:cat_spawn_egg 20
+[23:41:07] [Server thread/INFO]: [rimmairuuz: Gave 20 [Cat Spawn Egg] to rimmairuuz]
+[23:43:54] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:salmon
+[23:43:54] [Server thread/INFO]: [rimmairuuz: Gave 1 [Raw Salmon] to rimmairuuz]
+[23:44:41] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:lightning_rod
+[23:44:41] [Server thread/INFO]: [rimmairuuz: Gave 1 [Lightning Rod] to rimmairuuz]
+[23:48:57] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[23:48:57] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[23:50:43] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[23:50:43] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
