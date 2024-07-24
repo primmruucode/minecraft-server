@@ -401,3 +401,39 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [21:45:32] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
 [21:56:01] [Server thread/INFO]: KornZa lost connection: Disconnected
 [21:56:01] [Server thread/INFO]: KornZa left the game
+[22:01:36] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:01:36] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:01:47] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:01:47] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:01:56] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:01:56] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:02:00] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:02:00] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:02:29] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:02:29] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:02:35] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:02:35] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:03:09] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:03:09] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:03:54] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:03:54] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:04:25] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:04:25] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:04:43] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:04:45] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:04:45] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:04:58] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:04:58] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:05:06] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:05:07] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:05:07] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:05:33] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:05:33] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:05:38] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:05:38] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:06:28] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[22:06:28] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[22:06:34] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[22:06:34] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[22:10:31] [Server thread/INFO]: Villager EntityVillager['Villager'/961148, l='ServerLevel[world]', x=802.51, y=71.06, z=-1903.50] died, message: 'Villager was slain by Zombie'
+[22:59:52] [Server thread/INFO]: HoM issued server command: //copy
