@@ -1,12 +1,7 @@
-[00:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[00:08:30] [Server thread/INFO]: rimmairuuz lost connection: Timed out
-[00:08:30] [Server thread/INFO]: rimmairuuz left the game.
-[00:08:30] [Server thread/WARN]: handleDisconnection() called twice
-[00:17:15] [Server thread/INFO]: HoM lost connection: Disconnected
-[00:17:15] [Server thread/INFO]: HoM left the game
-[02:07:49] [ForkJoinPool.commonPool-worker-37/INFO]: [ArmoredElytra] A new update is available: 3.2
-[14:07:49] [ForkJoinPool.commonPool-worker-38/INFO]: [ArmoredElytra] A new update is available: 3.2
-[16:42:06] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:17:59] [User Authenticator #57/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[00:18:03] [Server thread/INFO]: HoM joined the game
+[00:18:03] [Server thread/INFO]: HoM[/49.228.96.202:5979] logged in with entity id 1098999 at ([world]925.6999999880791, 80.0, -1873.300000011921)
+[00:55:49] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
