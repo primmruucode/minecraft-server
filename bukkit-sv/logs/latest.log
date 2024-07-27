@@ -57,3 +57,94 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [17:54:28] [Server thread/INFO]: HoM issued server command: //paste
 [17:54:39] [Server thread/INFO]: HoM issued server command: //undo
 [17:54:42] [Server thread/INFO]: HoM issued server command: //paste
+[18:02:40] [Server thread/INFO]: HoM issued server command: //cut
+[18:02:55] [Server thread/INFO]: HoM issued server command: /reload
+[18:02:55] [Server thread/INFO]: HoM: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[18:02:55] [Server thread/INFO]: HoM: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[18:02:55] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[18:02:55] [Server thread/WARN]: resource-pack-id missing, using default of 98f07459-60e7-37f8-8f79-c1ebd3d1a85c
+[18:02:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:02:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:02:55] [Server thread/INFO]: Debug logging is disabled
+[18:02:55] [Server thread/INFO]: [ArmoredElytra] Disabling ArmoredElytra v3.1
+[18:02:55] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.5.3
+[18:02:55] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
+[18:02:55] [Server thread/INFO]: [POG] Disabling POG v2.2.0
+[18:02:55] [Server thread/INFO]: POG is to stop !
+[18:02:55] [Server thread/INFO]: [ClickSort] Disabling ClickSort v1.6.2
+[18:02:55] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v1.4.1
+[18:02:55] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[18:02:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.4-SNAPSHOT+6815-3adba9f
+[18:02:55] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:02:55] [Server thread/INFO]: [Chest] Disabling Chest v2.0-SNAPSHOT
+[18:02:55] [Server thread/INFO]: [Chest] ChestPlugin has been disabled
+[18:02:56] [Server thread/INFO]: Loaded 1290 recipes
+[18:02:57] [Server thread/INFO]: [Chest] Loading Chest v2.0-SNAPSHOT
+[18:02:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.4-SNAPSHOT+6815-3adba9f
+[18:02:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3d895c55]
+[18:02:59] [Server thread/INFO]: [BackpackPlus] Loading BackpackPlus v1.4.1
+[18:02:59] [Server thread/INFO]: [ClickSort] Loading ClickSort v1.6.2
+[18:02:59] [Server thread/INFO]: [POG] Loading POG v2.2.0
+[18:02:59] [Server thread/INFO]: [Sleeper] Loading Sleeper v1.5.3
+[18:02:59] [Server thread/INFO]: [ArmoredElytra] Loading ArmoredElytra v3.1
+[18:02:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.4-SNAPSHOT+6815-3adba9f
+[18:02:59] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:02:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:02:59] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18:02:59] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[18:03:00] [Server thread/INFO]: [WorldEdit] ====================================================
+[18:03:00] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[18:03:00] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[18:03:00] [Server thread/INFO]: [WorldEdit] ====================================================
+[18:03:00] [Server thread/INFO]: [Chest] Enabling Chest v2.0-SNAPSHOT
+[18:03:00] [Server thread/INFO]: [Chest] ChestPlugin has been enabled
+[18:03:00] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v1.4.1
+[18:03:00] [Server thread/INFO]: [BackpackPlus] BackpackPlus
+[18:03:00] [Server thread/INFO]: [BackpackPlus] Configuration loaded successfully. No missing fields detected.
+[18:03:00] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[18:03:00] [Server thread/INFO]: [BackpackPlus] SQLite Successfully connected to database
+[18:03:01] [Server thread/INFO]: [BackpackPlus] Language used: eng
+[18:03:01] [Server thread/INFO]: [ClickSort] Enabling ClickSort v1.6.2
+[18:03:01] [Server thread/INFO]: [POG] Enabling POG v2.2.0
+[18:03:01] [Server thread/INFO]: POG is a successful start !
+[18:03:01] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[18:03:01] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[18:03:01] [Server thread/INFO]: [ArmoredElytra] Enabling ArmoredElytra v3.1
+[18:03:01] [Server thread/WARN]: [ArmoredElytra] Could not save en_US.txt to plugins/ArmoredElytra/en_US.txt because en_US.txt already exists.
+[18:03:01] [Server thread/WARN]: [ArmoredElytra] Could not save it_IT.txt to plugins/ArmoredElytra/it_IT.txt because it_IT.txt already exists.
+[18:03:01] [Server thread/WARN]: [ArmoredElytra] Could not save zh_TW.txt to plugins/ArmoredElytra/zh_TW.txt because zh_TW.txt already exists.
+[18:03:01] [Server thread/INFO]: [ArmoredElytra] Enabling stats! Thanks, it really helps!
+[18:03:01] [Server thread/INFO]: [ArmoredElytra] Allowed enchantments:
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:unbreaking
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:fire_protection
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:blast_protection
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:projectile_protection
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:protection
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:thorns
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:binding_curse
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:vanishing_curse
+[18:03:01] [Server thread/INFO]: [ArmoredElytra]  - minecraft:mending
+[18:03:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:03:01] [Server thread/INFO]: HoM: [0;32;1mReload complete.[m
+[18:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6202ms or 124 ticks behind
+[18:03:01] [Craft Scheduler Thread - 244/INFO]: [BackpackPlus] §6Plugin is up to date.
+[18:03:02] [Server thread/WARN]: HoM moved too quickly! 13.329439322890153,0.0,-7.564237016198376
+[18:03:02] [ForkJoinPool.commonPool-worker-43/INFO]: [ArmoredElytra] A new update is available: 3.2
+[18:03:39] [Server thread/INFO]: HoM issued server command: //copy
+[18:03:44] [Server thread/INFO]: HoM issued server command: //copy
+[18:03:47] [Server thread/INFO]: HoM issued server command: //paste
+[18:05:30] [Server thread/INFO]: HoM issued server command: //cut
+[18:05:34] [Server thread/INFO]: HoM lost connection: Disconnected
+[18:05:34] [Server thread/INFO]: HoM left the game
+[18:05:39] [User Authenticator #62/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[18:05:41] [Server thread/INFO]: HoM joined the game
+[18:05:41] [Server thread/INFO]: HoM[/49.228.96.202:12758] logged in with entity id 1181266 at ([world]912.6247477525123, 84.74293160172489, -1862.0027374818585)
+[18:06:02] [Server thread/INFO]: HoM issued server command: //copy
+[18:06:06] [Server thread/INFO]: HoM issued server command: //paste
+[18:06:19] [Server thread/INFO]: HoM issued server command: //paste
+[18:06:24] [Server thread/INFO]: HoM issued server command: //undo
+[18:06:45] [Server thread/INFO]: HoM issued server command: //copy
+[18:07:11] [Server thread/INFO]: HoM issued server command: //paste
+[18:07:28] [Server thread/INFO]: HoM issued server command: //copy
+[18:07:40] [Server thread/INFO]: HoM issued server command: //paste
+[18:07:46] [Server thread/INFO]: HoM issued server command: //paste
