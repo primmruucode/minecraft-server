@@ -17,3 +17,26 @@
 [01:59:32] [Server thread/INFO]: HoM issued server command: //copy
 [01:59:46] [Server thread/INFO]: HoM issued server command: //paste
 [01:59:56] [Server thread/INFO]: HoM issued server command: //undo
+[02:00:02] [Server thread/INFO]: HoM issued server command: //rotate 90
+[02:00:05] [Server thread/INFO]: HoM issued server command: //paste
+[02:00:09] [Server thread/INFO]: rimmairuuz issued server command: //set 0
+[02:00:23] [Server thread/INFO]: rimmairuuz issued server command: //set 0
+[02:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[02:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[02:15:52] [Server thread/WARN]: rimmairuuz moved wrongly!
+[02:19:09] [Server thread/INFO]: rimmairuuz issued server command: /kill @e[type=item]
+[02:19:09] [Server thread/INFO]: [rimmairuuz: Killed 182 entities]
+[02:20:00] [Server thread/INFO]: rimmairuuz issued server command: /kill @e[type=item]
+[02:20:00] [Server thread/INFO]: [rimmairuuz: Killed 85 entities]
+[02:20:14] [Server thread/INFO]: rimmairuuz issued server command: /kill @e[type=item]
+[02:20:14] [Server thread/INFO]: [rimmairuuz: Killed 25 entities]
+[02:20:30] [Server thread/INFO]: rimmairuuz issued server command: /kill @e[type=item]
+[02:20:30] [Server thread/INFO]: [rimmairuuz: Killed 23 entities]
+[02:20:37] [Server thread/INFO]: rimmairuuz issued server command: /kill @e[type=item]
+[02:20:37] [Server thread/INFO]: [rimmairuuz: Killed 70 entities]
+[02:26:22] [Server thread/WARN]: rimmairuuz moved wrongly!
+[02:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[02:35:43] [Server thread/INFO]: HoM lost connection: Disconnected
+[02:35:43] [Server thread/INFO]: HoM left the game
+[03:04:45] [Server thread/INFO]: Villager EntityVillager['Librarian'/1235998, l='ServerLevel[world]', x=795.66, y=96.00, z=-1821.74] died, message: 'Librarian was slain by Zombie'
