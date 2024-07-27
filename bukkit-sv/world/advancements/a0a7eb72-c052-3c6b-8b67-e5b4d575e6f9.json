@@ -6173,5 +6173,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-07-27 19:06:17 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
