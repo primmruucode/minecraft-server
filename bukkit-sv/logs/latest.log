@@ -148,3 +148,11 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:07:28] [Server thread/INFO]: HoM issued server command: //copy
 [18:07:40] [Server thread/INFO]: HoM issued server command: //paste
 [18:07:46] [Server thread/INFO]: HoM issued server command: //paste
+[20:05:55] [Server thread/INFO]: HoM issued server command: /gamemode spectator
+[20:05:55] [Server thread/INFO]: [HoM: Set own game mode to Spectator Mode]
+[20:05:59] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[20:05:59] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[20:06:08] [Server thread/INFO]: HoM issued server command: /gamemode survival
+[20:06:08] [Server thread/INFO]: [HoM: Set own game mode to Survival Mode]
+[20:13:31] [Server thread/INFO]: HoM lost connection: Disconnected
+[20:13:31] [Server thread/INFO]: HoM left the game
