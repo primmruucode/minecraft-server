@@ -3555,27 +3555,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-07-24 23:42:55 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-07-24 23:39:17 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-07-24 23:46:09 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-07-24 23:46:09 +0700"
     },
     "done": true
   },
@@ -3591,9 +3573,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_raw_iron": "2024-07-24 23:46:09 +0700"
+      "tamed_animal": "2024-07-24 23:42:55 +0700"
     },
     "done": true
   },
@@ -3603,6 +3585,24 @@
       "minecraft:jellie": "2024-07-24 23:43:32 +0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-07-24 23:46:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-07-24 23:46:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-07-24 23:46:09 +0700"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
