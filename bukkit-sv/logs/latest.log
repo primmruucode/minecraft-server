@@ -1,205 +1,67 @@
-[17:53:42] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[17:53:42] [ServerMain/WARN]: resource-pack-id missing, using default of 98f07459-60e7-37f8-8f79-c1ebd3d1a85c
-[17:53:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:53:43] [ServerMain/INFO]: Loaded 1290 recipes
-[17:53:44] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:53:44] [Server thread/INFO]: Loading properties
-[17:53:44] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:53:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:53:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:53:45] [Server thread/INFO]: Debug logging is disabled
-[17:53:45] [Server thread/INFO]: Default game type: SURVIVAL
-[17:53:45] [Server thread/INFO]: Generating keypair
-[17:53:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:53:45] [Server thread/INFO]: Using epoll channel type
-[17:53:45] [Server thread/INFO]: [Chest] Loading Chest v2.0-SNAPSHOT
-[17:53:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.4-SNAPSHOT+6815-3adba9f
-[17:53:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5252a5fe]
-[17:53:47] [Server thread/INFO]: [BackpackPlus] Loading BackpackPlus v1.4.1
-[17:53:47] [Server thread/INFO]: [ClickSort] Loading ClickSort v1.6.2
-[17:53:47] [Server thread/INFO]: [POG] Loading POG v2.2.0
-[17:53:47] [Server thread/INFO]: [Sleeper] Loading Sleeper v1.5.3
-[17:53:47] [Server thread/INFO]: [ArmoredElytra] Loading ArmoredElytra v3.1
-[17:53:47] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.4-SNAPSHOT+6815-3adba9f
-[17:53:47] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:53:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:53:48] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[17:53:49] [Server thread/INFO]: [WorldEdit] ====================================================
-[17:53:49] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
-[17:53:49] [Server thread/INFO]: [WorldEdit]  as your server software. 
-[17:53:49] [Server thread/INFO]: [WorldEdit]   
-[17:53:49] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
-[17:53:49] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
-[17:53:49] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
-[17:53:49] [Server thread/INFO]: [WorldEdit]   
-[17:53:49] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[17:53:49] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
-[17:53:49] [Server thread/INFO]: [WorldEdit]   
-[17:53:49] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
-[17:53:49] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[17:53:49] [Server thread/INFO]: [WorldEdit]   
-[17:53:49] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[17:53:49] [Server thread/INFO]: [WorldEdit] ====================================================
-[17:53:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:53:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:53:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:53:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:53:49] [Server thread/INFO]: Preparing level "world"
-[17:53:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:53:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:53:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:53:51] [Server thread/INFO]: Time elapsed: 884 ms
-[17:53:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:53:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:53:51] [Server thread/INFO]: Time elapsed: 141 ms
-[17:53:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:53:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:53:52] [Server thread/INFO]: Time elapsed: 102 ms
-[17:53:52] [Server thread/INFO]: [Chest] Enabling Chest v2.0-SNAPSHOT
-[17:53:52] [Server thread/INFO]: [Chest] ChestPlugin has been enabled
-[17:53:52] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v1.4.1
-[17:53:52] [Server thread/INFO]: [BackpackPlus] BackpackPlus
-[17:53:52] [Server thread/INFO]: [BackpackPlus] Configuration loaded successfully. No missing fields detected.
-[17:53:52] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
-[17:53:52] [Server thread/INFO]: [BackpackPlus] SQLite Successfully connected to database
-[17:53:52] [Server thread/INFO]: [BackpackPlus] Language used: eng
-[17:53:52] [Server thread/INFO]: [ClickSort] Enabling ClickSort v1.6.2
-[17:53:52] [Server thread/INFO]: [POG] Enabling POG v2.2.0
-[17:53:52] [Server thread/INFO]: POG is a successful start !
-[17:53:52] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
-[17:53:52] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
-[17:53:52] [Server thread/INFO]: [ArmoredElytra] Enabling ArmoredElytra v3.1
-[17:53:52] [Server thread/WARN]: [ArmoredElytra] Could not save en_US.txt to plugins/ArmoredElytra/en_US.txt because en_US.txt already exists.
-[17:53:52] [Server thread/WARN]: [ArmoredElytra] Could not save it_IT.txt to plugins/ArmoredElytra/it_IT.txt because it_IT.txt already exists.
-[17:53:52] [Server thread/WARN]: [ArmoredElytra] Could not save zh_TW.txt to plugins/ArmoredElytra/zh_TW.txt because zh_TW.txt already exists.
-[17:53:52] [Server thread/INFO]: [ArmoredElytra] Enabling stats! Thanks, it really helps!
-[17:53:52] [Server thread/INFO]: [ArmoredElytra] Allowed enchantments:
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:unbreaking
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:fire_protection
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:blast_protection
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:projectile_protection
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:protection
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:thorns
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:binding_curse
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:vanishing_curse
-[17:53:52] [Server thread/INFO]: [ArmoredElytra]  - minecraft:mending
-[17:53:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:53:53] [Server thread/INFO]: Done (3.640s)! For help, type "help"
-[17:53:53] [ForkJoinPool.commonPool-worker-1/INFO]: [ArmoredElytra] A new update is available: 3.2
-[17:53:53] [Craft Scheduler Thread - 0/INFO]: [BackpackPlus] §6Plugin is up to date.
-[17:54:29] [User Authenticator #1/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
-[17:54:31] [Server thread/INFO]: rimmairuuz joined the game
-[17:54:31] [Server thread/INFO]: rimmairuuz[/110.169.249.224:59245] logged in with entity id 246 at ([world]904.5747081558202, 80.0, -1843.0964058717789)
-[17:55:06] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
-[17:55:06] [Server thread/INFO]: rimmairuuz left the game
-[18:02:39] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[18:16:02] [User Authenticator #2/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
-[18:16:04] [Server thread/INFO]: rimmairuuz joined the game
-[18:16:04] [Server thread/INFO]: rimmairuuz[/110.169.249.224:60324] logged in with entity id 1916 at ([world]843.5136543511666, 118.5, -1687.9620327261557)
-[18:16:17] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
-[18:16:17] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
-[18:20:58] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
-[18:20:58] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
-[18:20:59] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
-[18:20:59] [Server thread/INFO]: rimmairuuz left the game
-[18:36:11] [User Authenticator #3/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
-[18:36:14] [Server thread/INFO]: rimmairuuz joined the game
-[18:36:14] [Server thread/INFO]: rimmairuuz[/193.37.32.76:60510] logged in with entity id 4456 at ([world]901.722755449235, 80.0, -1807.4214952818265)
-[18:36:31] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
-[18:36:31] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
-[18:42:33] [Server thread/INFO]: rimmairuuz issued server command: //walls cobbled_deepslate
-[18:49:28] [Server thread/INFO]: rimmairuuz issued server command: //copy
-[18:49:32] [Server thread/INFO]: rimmairuuz issued server command: //paste
-[18:53:11] [Server thread/INFO]: rimmairuuz issued server command: //set dark_oak_planks
-[18:57:20] [Server thread/INFO]: rimmairuuz issued server command: /time set 0
-[18:57:20] [Server thread/INFO]: [rimmairuuz: Set the time to 0]
-[19:06:12] [Server thread/INFO]: rimmairuuz issued server command: /weather clear
-[19:06:12] [Server thread/INFO]: [rimmairuuz: Set the weather to clear]
-[19:06:19] [User Authenticator #4/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
-[19:06:23] [Server thread/INFO]: HoM joined the game
-[19:06:23] [Server thread/INFO]: HoM[/49.228.96.202:4069] logged in with entity id 13142 at ([world]1013.2781252794414, 63.9375, -1659.2235574788815)
-[19:06:51] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
-[19:06:51] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
-[19:07:17] [Server thread/INFO]: HoM lost connection: Disconnected
-[19:07:17] [Server thread/INFO]: HoM left the game
-[19:09:51] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:dark_oak_trapdoor 64
-[19:09:51] [Server thread/INFO]: [rimmairuuz: Gave 64 [Dark Oak Trapdoor] to rimmairuuz]
-[19:11:59] [Server thread/INFO]: rimmairuuz lost connection: Disconnected
-[19:11:59] [Server thread/INFO]: rimmairuuz left the game
-[20:34:12] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4226-Spigot-146439e-2889b3a]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:28:41] [User Authenticator #5/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[00:28:44] [Server thread/INFO]: HoM joined the game
+[00:28:44] [Server thread/INFO]: HoM[/49.228.96.202:6307] logged in with entity id 15397 at ([world]965.3000000119209, 61.0, -1584.1516000828212)
+[00:34:04] [Server thread/INFO]: HoM issued server command: //copy
+[00:34:09] [Server thread/INFO]: HoM issued server command: //paste
+[00:34:18] [Server thread/INFO]: HoM issued server command: //paste
+[00:35:42] [Server thread/INFO]: HoM issued server command: //copy
+[00:37:03] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:09] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:14] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:21] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:31] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:47] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:52] [Server thread/INFO]: HoM issued server command: //paste
+[00:37:56] [Server thread/INFO]: HoM issued server command: //paste
+[00:38:02] [Server thread/INFO]: HoM issued server command: //paste
+[00:38:19] [Server thread/INFO]: HoM issued server command: //paste
+[00:38:36] [User Authenticator #6/INFO]: UUID of player rimmairuuz is e55a2aa5-1654-36db-ae0e-dea7ed88fc53
+[00:38:39] [Server thread/INFO]: rimmairuuz joined the game
+[00:38:39] [Server thread/INFO]: rimmairuuz[/193.37.32.76:50216] logged in with entity id 22587 at ([world]894.6156705655173, 81.0, -1789.8241811438695)
+[00:39:14] [Server thread/INFO]: HoM issued server command: //copy
+[00:40:06] [Server thread/INFO]: HoM issued server command: //paste
+[00:40:18] [Server thread/INFO]: HoM issued server command: //paste
+[00:40:28] [Server thread/INFO]: HoM issued server command: //paste
+[00:40:47] [Server thread/INFO]: HoM issued server command: //paste
+[00:40:54] [Server thread/INFO]: HoM issued server command: //paste
+[00:41:04] [Server thread/INFO]: HoM issued server command: //paste
+[00:41:25] [Server thread/INFO]: HoM issued server command: //paste
+[00:41:36] [Server thread/INFO]: HoM issued server command: //paste
+[00:41:44] [Server thread/INFO]: HoM issued server command: //paste
+[00:41:49] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:stone_button 30
+[00:41:49] [Server thread/INFO]: [rimmairuuz: Gave 30 [Stone Button] to rimmairuuz]
+[00:42:03] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:scaffolding 54
+[00:42:03] [Server thread/INFO]: [rimmairuuz: Gave 54 [Scaffolding] to rimmairuuz]
+[00:42:16] [Server thread/INFO]: HoM issued server command: //rotate 180
+[00:42:18] [Server thread/INFO]: HoM issued server command: //paste
+[00:42:26] [Server thread/INFO]: HoM issued server command: //paste
+[00:43:45] [Server thread/INFO]: HoM issued server command: //copy
+[00:43:55] [Server thread/INFO]: HoM issued server command: //paste
+[00:44:05] [Server thread/INFO]: HoM issued server command: //paste
+[00:44:26] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[00:44:26] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[00:46:48] [Server thread/INFO]: HoM issued server command: /gamemode creative
+[00:46:48] [Server thread/INFO]: [HoM: Set own game mode to Creative Mode]
+[00:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[00:48:04] [Server thread/INFO]: HoM issued server command: //copy
+[00:48:10] [Server thread/INFO]: HoM issued server command: //paste
+[00:48:19] [Server thread/INFO]: HoM issued server command: //paste
+[00:48:25] [Server thread/INFO]: HoM issued server command: //paste
+[00:48:35] [Server thread/INFO]: HoM issued server command: //paste
+[00:48:51] [Server thread/INFO]: HoM issued server command: //paste
+[00:48:57] [Server thread/INFO]: HoM issued server command: //undo
+[00:49:22] [Server thread/INFO]: HoM issued server command: //copy
+[00:49:28] [Server thread/INFO]: HoM issued server command: //paste
+[00:49:34] [Server thread/INFO]: HoM issued server command: //undo
+[00:49:41] [Server thread/INFO]: HoM issued server command: //copy
+[00:49:50] [Server thread/INFO]: HoM issued server command: //paste
+[00:50:53] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[00:50:53] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[00:51:04] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[00:51:04] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[00:51:16] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[00:51:16] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[00:54:47] [Server thread/INFO]: rimmairuuz issued server command: /gamemode creative
+[00:54:47] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
+[00:55:22] [Server thread/INFO]: rimmairuuz issued server command: //walls red_terracotta
+[00:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
