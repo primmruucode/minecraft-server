@@ -40,3 +40,4 @@
 [02:35:43] [Server thread/INFO]: HoM lost connection: Disconnected
 [02:35:43] [Server thread/INFO]: HoM left the game
 [03:04:45] [Server thread/INFO]: Villager EntityVillager['Librarian'/1235998, l='ServerLevel[world]', x=795.66, y=96.00, z=-1821.74] died, message: 'Librarian was slain by Zombie'
+[06:03:34] [ForkJoinPool.commonPool-worker-47/INFO]: [ArmoredElytra] A new update is available: 3.2
