@@ -65,3 +65,13 @@
 [00:54:47] [Server thread/INFO]: [rimmairuuz: Set own game mode to Creative Mode]
 [00:55:22] [Server thread/INFO]: rimmairuuz issued server command: //walls red_terracotta
 [00:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[01:01:55] [Server thread/INFO]: rimmairuuz issued server command: /gamemode survival
+[01:01:55] [Server thread/INFO]: [rimmairuuz: Set own game mode to Survival Mode]
+[01:11:28] [Server thread/INFO]: HoM issued server command: /gamerule mobGriefing false
+[01:11:28] [Server thread/INFO]: [HoM: Gamerule mobGriefing is now set to: false]
+[01:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[01:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[01:19:15] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:egg 200
+[01:19:15] [Server thread/INFO]: [rimmairuuz: Gave 200 [Egg] to rimmairuuz]
+[01:21:59] [Server thread/INFO]: rimmairuuz issued server command: /give rimmairuuz minecraft:experience_bottle 23
+[01:21:59] [Server thread/INFO]: [rimmairuuz: Gave 23 [Bottle o' Enchanting] to rimmairuuz]
