@@ -2777,7 +2777,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2024-06-30 02:46:05 +0700"
+      "minecraft:chicken": "2024-06-30 02:46:05 +0700",
+      "minecraft:panda": "2024-07-29 19:39:08 +0700"
     },
     "done": false
   },
