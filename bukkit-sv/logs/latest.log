@@ -309,3 +309,6 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [22:49:31] [Server thread/INFO]: HoM lost connection: Timed out
 [22:49:31] [Server thread/INFO]: HoM left the game
+[23:17:59] [User Authenticator #9/INFO]: UUID of player HoM is a0a7eb72-c052-3c6b-8b67-e5b4d575e6f9
+[23:18:01] [Server thread/INFO]: HoM joined the game
+[23:18:01] [Server thread/INFO]: HoM[/49.228.96.202:13769] logged in with entity id 198405 at ([world_the_end]1.2094905046906157, 74.62015952515448, -103.12978917115035)
