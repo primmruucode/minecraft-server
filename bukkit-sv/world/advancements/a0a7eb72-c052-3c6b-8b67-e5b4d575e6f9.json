@@ -6216,12 +6216,6 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin_directly": "2024-07-30 01:33:57 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2024-07-30 01:26:28 +0700"
@@ -6231,6 +6225,36 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2024-07-30 01:26:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin_directly": "2024-07-30 01:33:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-07-30 21:11:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-30 21:11:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-30 21:11:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-30 21:11:58 +0700"
     },
     "done": true
   },
