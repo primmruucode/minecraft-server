@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to your repository
-cd ~/biw2/minecraft-server/bukkit-sv
+cd ~/minecraft-server/bukkit-sv
 
 # Ensure the repository is up-to-date
 # git pull origin main
