@@ -1,0 +1,15 @@
+--2024-07-31 18:38:30--  https://adfoc.us/serve/sitelinks/?id=271228
+Resolving adfoc.us (adfoc.us)... 104.26.6.10, 104.26.7.10, 172.67.74.85, ...
+Connecting to adfoc.us (adfoc.us)|104.26.6.10|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: / [following]
+--2024-07-31 18:38:31--  https://adfoc.us/
+Reusing existing connection to adfoc.us:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?id=271228’
+
+index.html?id=271228            [<=>                                      ]       0  --.-KB/s               index.html?id=271228            [ <=>                                     ]   9.52K  --.-KB/s    in 0s      
+
+2024-07-31 18:38:31 (56.9 MB/s) - ‘index.html?id=271228’ saved [9744]
+
