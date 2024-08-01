@@ -45,3 +45,5 @@
 [01Aug2024 05:15:44.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rimmairuuz: Set own game mode to Survival Mode]
 [01Aug2024 05:15:45.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rimmairuuz lost connection: Disconnected
 [01Aug2024 05:15:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rimmairuuz left the game
+[01Aug2024 15:48:29.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HoM[/184.22.33.107:13881] logged in with entity id 1496 at (810.5, 81.0, -1906.5)
+[01Aug2024 15:48:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HoM joined the game
