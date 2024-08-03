@@ -52,3 +52,12 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [03Aug2024 16:39:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
 [03Aug2024 16:39:32.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
 [03Aug2024 16:39:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
+[03Aug2024 20:12:50.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:60114] logged in with entity id 147763 at (1024.9100590034038, 50.0, -1619.5434452319114)
+[03Aug2024 20:12:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
+[03Aug2024 20:13:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
+[03Aug2024 20:26:08.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Saint'/148410, l='ServerLevel[world]', x=1014.59, y=85.00, z=-1914.60] died: Saint was slain by Iron Golem
+[03Aug2024 20:26:41.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/148340, l='ServerLevel[world]', x=850.50, y=74.56, z=-1896.50] died, message: 'Villager was slain by Zombie'
+[03Aug2024 20:31:33.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[03Aug2024 20:40:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
+[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
+[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game

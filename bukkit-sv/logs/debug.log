@@ -2740,3 +2740,43 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [03Aug2024 19:50:04.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Aug2024 19:55:04.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2024 19:55:04.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:00:04.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:00:04.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:05:04.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:05:04.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:10:04.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:10:04.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:12:46.925] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03Aug2024 20:12:46.925] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03Aug2024 20:12:46.925] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Vanilla acceptance test: ACCEPTED
+[03Aug2024 20:12:46.925] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03Aug2024 20:12:46.925] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Vanilla acceptance test: ACCEPTED
+[03Aug2024 20:12:46.926] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03Aug2024 20:12:46.929] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@78646d47 into net.minecraft.network.Connection@7ee14938
+[03Aug2024 20:12:50.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:60114] logged in with entity id 147763 at (1024.9100590034038, 50.0, -1619.5434452319114)
+[03Aug2024 20:12:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
+[03Aug2024 20:13:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
+[03Aug2024 20:15:05.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:15:05.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:20:05.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:20:05.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:25:05.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:25:05.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:26:08.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Saint'/148410, l='ServerLevel[world]', x=1014.59, y=85.00, z=-1914.60] died: Saint was slain by Iron Golem
+[03Aug2024 20:26:41.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/148340, l='ServerLevel[world]', x=850.50, y=74.56, z=-1896.50] died, message: 'Villager was slain by Zombie'
+[03Aug2024 20:30:05.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:30:05.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:31:33.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[03Aug2024 20:35:07.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:35:07.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:40:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
+[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
+[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
+[03Aug2024 20:40:07.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:40:07.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:45:06.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:45:06.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:50:06.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:50:06.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 20:55:06.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 20:55:06.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
