@@ -1,4 +1,4 @@
-[02Aug2024 01:45:04.236] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
+[03Aug2024 08:05:24.905] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[forge-1.21-51.0.29-server.jar:?]
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[forge-1.21-51.0.29-server.jar:?]
@@ -37,16 +37,3 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02Aug2024 20:05:27.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:58405] logged in with entity id 113382 at (917.270001927313, 80.0, -1861.9329733375807)
-[02Aug2024 20:05:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
-[02Aug2024 20:05:39.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
-[02Aug2024 20:05:58.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob moved too quickly! -0.038954768753228564,-10.98408108579595,0.09783528643424688
-[02Aug2024 20:06:38.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob moved too quickly! -0.4134040710930549,-2.44694793723297,10.047506943325288
-[02Aug2024 20:06:38.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[02Aug2024 20:06:57.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
-[02Aug2024 20:22:48.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02Aug2024 20:27:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Spectator Mode]
-[02Aug2024 20:34:54.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[02Aug2024 20:35:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
-[02Aug2024 20:35:41.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
-[02Aug2024 20:35:41.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
