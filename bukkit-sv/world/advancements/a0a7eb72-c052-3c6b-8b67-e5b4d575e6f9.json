@@ -6288,5 +6288,11 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-08-04 08:08:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
