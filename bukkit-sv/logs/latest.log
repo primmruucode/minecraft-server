@@ -1,63 +1,10 @@
-[03Aug2024 08:05:24.905] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[forge-1.21-51.0.29-server.jar:?]
-	at SECURE-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection$2.write(Connection.java:523) ~[forge-1.21-51.0.29-server.jar:?]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.doSendPacket(Connection.java:357) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.sendPacket(Connection.java:350) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.send(Connection.java:332) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.send(Connection.java:326) ~[forge-1.21-51.0.29-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.exceptionCaught(Connection.java:166) ~[forge-1.21-51.0.29-server.jar:?]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
-	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03Aug2024 16:13:42.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:62119] logged in with entity id 134781 at (867.8749832015941, 80.0, -1768.422204658249)
-[03Aug2024 16:13:42.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
-[03Aug2024 16:14:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
-[03Aug2024 16:14:22.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
-[03Aug2024 16:14:23.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob moved too quickly! 10.136189730620572,0.0,3.3713134613010425
-[03Aug2024 16:14:29.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob moved too quickly! 4.470628025117435,0.0,9.562545835856781
-[03Aug2024 16:14:43.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6543ms or 130 ticks behind
-[03Aug2024 16:28:38.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135095, l='ServerLevel[world]', x=851.50, y=74.56, z=-1912.50] died, message: 'Villager was slain by Zombie'
-[03Aug2024 16:30:35.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob moved too quickly! 0.8952973623847811,0.0,-10.13860780828577
-[03Aug2024 16:30:36.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
-[03Aug2024 16:30:54.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
-[03Aug2024 16:33:24.783] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@75190197[id=25966168-dc9c-360c-8f32-ed022bfa1070,name=Herobrine,properties={}] lost connection: Disconnected
-[03Aug2024 16:39:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
-[03Aug2024 16:39:32.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
-[03Aug2024 16:39:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
-[03Aug2024 20:12:50.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:60114] logged in with entity id 147763 at (1024.9100590034038, 50.0, -1619.5434452319114)
-[03Aug2024 20:12:50.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
-[03Aug2024 20:13:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
-[03Aug2024 20:26:08.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Saint'/148410, l='ServerLevel[world]', x=1014.59, y=85.00, z=-1914.60] died: Saint was slain by Iron Golem
-[03Aug2024 20:26:41.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/148340, l='ServerLevel[world]', x=850.50, y=74.56, z=-1896.50] died, message: 'Villager was slain by Zombie'
-[03Aug2024 20:31:33.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[03Aug2024 20:40:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
-[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
-[03Aug2024 20:40:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
+[04Aug2024 07:44:08.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HoM[/184.22.33.107:1783] logged in with entity id 161120 at (1003.6991825774944, 69.0, -1914.48986731822)
+[04Aug2024 07:44:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HoM joined the game
+[04Aug2024 07:44:30.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04Aug2024 07:44:47.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[04Aug2024 07:45:14.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[04Aug2024 07:45:39.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9414ms or 188 ticks behind
+[04Aug2024 07:46:10.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[04Aug2024 07:51:04.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Aug2024 07:51:38.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Creative Mode]
+[04Aug2024 07:52:57.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HoM moved too quickly! -0.025647148924253793,0.0,10.876586374988108
