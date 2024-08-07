@@ -418,3 +418,30 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06Aug2024 23:00:46.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/31.205.87.190:57886] logged in with entity id 379320 at (821.7127143552187, 95.0, -1764.0241680444192)
+[06Aug2024 23:00:46.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
+[06Aug2024 23:01:27.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[06Aug2024 23:01:45.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[06Aug2024 23:03:01.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[06Aug2024 23:03:22.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5574ms or 111 ticks behind
+[06Aug2024 23:03:44.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7562ms or 151 ticks behind
+[06Aug2024 23:04:03.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[06Aug2024 23:04:23.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Aug2024 23:04:43.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Aug2024 23:05:20.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Aug2024 23:05:38.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Aug2024 23:05:56.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Aug2024 23:06:18.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6725ms or 134 ticks behind
+[06Aug2024 23:06:44.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11461ms or 229 ticks behind
+[06Aug2024 23:07:13.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14294ms or 285 ticks behind
+[06Aug2024 23:07:42.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14047ms or 280 ticks behind
+[06Aug2024 23:08:18.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Aug2024 23:08:48.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14462ms or 289 ticks behind
+[06Aug2024 23:09:17.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14153ms or 283 ticks behind
+[06Aug2024 23:09:53.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21428ms or 428 ticks behind
+[06Aug2024 23:10:15.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6693ms or 133 ticks behind
+[06Aug2024 23:10:32.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[06Aug2024 23:10:55.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Aug2024 23:11:12.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
+[06Aug2024 23:11:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
+[06Aug2024 23:11:13.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
