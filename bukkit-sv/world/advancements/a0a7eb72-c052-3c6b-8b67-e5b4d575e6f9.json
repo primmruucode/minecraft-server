@@ -6498,12 +6498,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-08-06 16:29:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_copper_bulb_from_honeycomb": {
     "criteria": {
       "has_weathered_copper_bulb": "2024-08-06 16:06:10 +0000"
@@ -6513,6 +6507,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-08-06 16:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-08-06 16:29:52 +0000"
     },
     "done": true
   },
