@@ -37,3 +37,18 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[09Aug2024 17:37:01.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mu_________[/58.8.0.235:63329] logged in with entity id 429572 at (1015.1594799915824, 74.5, -1924.873909087206)
+[09Aug2024 17:37:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ joined the game
+[09Aug2024 17:38:56.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09Aug2024 17:39:24.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13710ms or 274 ticks behind
+[09Aug2024 17:39:53.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13515ms or 270 ticks behind
+[09Aug2024 17:41:38.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mu_________ moved too quickly! -0.20857912771780146,-0.8645634386047689,18.443246526143128
+[09Aug2024 17:44:45.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[09Aug2024 17:45:19.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19380ms or 387 ticks behind
+[09Aug2024 17:45:49.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14935ms or 298 ticks behind
+[09Aug2024 17:46:19.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14852ms or 297 ticks behind
+[09Aug2024 17:46:49.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15334ms or 306 ticks behind
+[09Aug2024 17:47:22.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17844ms or 356 ticks behind
+[09Aug2024 17:47:53.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16239ms or 324 ticks behind
+[09Aug2024 17:47:57.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mu_________ lost connection: Disconnected
+[09Aug2024 17:47:57.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ left the game
