@@ -9781,3 +9781,45 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [11Aug2024 08:51:37.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Aug2024 08:56:37.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Aug2024 08:56:37.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:01:37.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:01:37.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:06:37.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:06:37.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:11:37.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:11:37.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:16:37.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:16:37.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:21:37.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:21:37.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:23:04.852] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[11Aug2024 09:23:04.852] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[11Aug2024 09:23:04.852] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Vanilla acceptance test: ACCEPTED
+[11Aug2024 09:23:04.852] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[11Aug2024 09:23:04.852] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Vanilla acceptance test: ACCEPTED
+[11Aug2024 09:23:04.853] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[11Aug2024 09:23:04.854] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@1140d3b7 into net.minecraft.network.Connection@5acd53c5
+[11Aug2024 09:23:07.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mu_________[/58.8.0.235:65094] logged in with entity id 482125 at (934.6923279687961, 122.0, -1637.1524284796237)
+[11Aug2024 09:23:07.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ joined the game
+[11Aug2024 09:23:10.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[11Aug2024 09:23:40.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15219ms or 304 ticks behind
+[11Aug2024 09:24:15.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19789ms or 395 ticks behind
+[11Aug2024 09:24:44.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14394ms or 287 ticks behind
+[11Aug2024 09:25:14.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14924ms or 298 ticks behind
+[11Aug2024 09:25:44.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14474ms or 289 ticks behind
+[11Aug2024 09:26:05.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mu_________ lost connection: Disconnected
+[11Aug2024 09:26:05.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ left the game
+[11Aug2024 09:26:06.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7221ms or 144 ticks behind
+[11Aug2024 09:28:05.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:28:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:33:04.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:33:04.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:38:04.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:38:04.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:43:04.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:43:04.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:48:04.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:48:04.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:53:04.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:53:04.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2024 09:58:04.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2024 09:58:04.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
