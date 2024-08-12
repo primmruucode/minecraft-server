@@ -37,3 +37,9 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12Aug2024 08:37:13.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mu_________[/124.122.83.44:61239] logged in with entity id 24273 at (935.5, 123.6875, -1633.5)
+[12Aug2024 08:37:13.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ joined the game
+[12Aug2024 08:52:10.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[12Aug2024 08:56:29.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Aug2024 08:56:53.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mu_________ lost connection: Disconnected
+[12Aug2024 08:56:53.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mu_________ left the game
