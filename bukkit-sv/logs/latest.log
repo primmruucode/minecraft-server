@@ -1,4 +1,4 @@
-[13Aug2024 00:00:06.422] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
+[14Aug2024 01:28:48.746] [Netty Epoll Server IO #7/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[forge-1.21-51.0.29-server.jar:?]
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[forge-1.21-51.0.29-server.jar:?]
