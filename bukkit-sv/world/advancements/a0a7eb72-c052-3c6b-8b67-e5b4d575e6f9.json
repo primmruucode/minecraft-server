@@ -6522,5 +6522,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_trapdoor": "2024-08-18 05:57:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
