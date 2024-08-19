@@ -1,17 +1,4 @@
-[18Aug2024 05:40:54.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HoM[/184.22.34.75:59347] logged in with entity id 45836 at (1005.8310446128463, 66.0, -1626.1846760817143)
-[18Aug2024 05:40:55.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HoM joined the game
-[18Aug2024 05:40:57.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[18Aug2024 05:41:16.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4473ms or 89 ticks behind
-[18Aug2024 05:42:51.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Creative Mode]
-[18Aug2024 05:52:53.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Spectator Mode]
-[18Aug2024 05:52:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Creative Mode]
-[18Aug2024 05:53:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Spectator Mode]
-[18Aug2024 05:53:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Creative Mode]
-[18Aug2024 05:53:22.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Spectator Mode]
-[18Aug2024 05:53:26.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HoM: Set own game mode to Creative Mode]
-[18Aug2024 06:08:58.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HoM lost connection: Disconnected
-[18Aug2024 06:08:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HoM left the game
-[18Aug2024 18:26:13.929] [Netty Epoll Server IO #2/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
+[19Aug2024 17:48:34.258] [Netty Epoll Server IO #7/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[forge-1.21-51.0.29-server.jar:?]
 	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[forge-1.21-51.0.29-server.jar:?]
