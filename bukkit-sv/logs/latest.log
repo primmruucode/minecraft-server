@@ -1,8 +1,3 @@
-[20Aug2024 18:37:08.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goodjob[/110.169.230.255:65066] logged in with entity id 53920 at (1021.2238803380711, 49.5, -1631.956395158143)
-[20Aug2024 18:37:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob joined the game
-[20Aug2024 18:37:10.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[20Aug2024 18:37:30.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5195ms or 103 ticks behind
-[20Aug2024 18:38:13.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Creative Mode]
-[20Aug2024 18:43:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [goodjob: Set own game mode to Survival Mode]
-[20Aug2024 18:43:39.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goodjob lost connection: Disconnected
-[20Aug2024 18:43:39.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goodjob left the game
+[21Aug2024 01:05:47.926] [Netty Epoll Server IO #0/WARN] [io.netty.channel.DefaultChannelPipeline/]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: accept(..) failed: Software caused connection abort
+[21Aug2024 01:51:21.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /154.213.187.7:1 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
