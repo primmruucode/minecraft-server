@@ -10978,3 +10978,66 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [27Aug2024 00:54:47.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Aug2024 00:59:47.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Aug2024 00:59:47.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:04:47.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:04:47.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:09:47.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:09:47.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:14:47.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:14:47.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:19:47.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:19:47.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:24:05.482] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[forge-1.21-51.0.29-server.jar:?]
+	at SECURE-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection$2.write(Connection.java:523) ~[forge-1.21-51.0.29-server.jar:?]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.doSendPacket(Connection.java:357) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.sendPacket(Connection.java:350) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.send(Connection.java:332) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.send(Connection.java:326) ~[forge-1.21-51.0.29-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.network.Connection.exceptionCaught(Connection.java:166) ~[forge-1.21-51.0.29-server.jar:?]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
+	at SECURE-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar!/:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Aug2024 01:24:47.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:24:47.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:29:47.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:29:47.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:34:47.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:34:47.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:39:47.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:39:47.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:44:47.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:44:47.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:49:47.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:49:47.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:54:47.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:54:47.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2024 01:59:47.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2024 01:59:47.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
